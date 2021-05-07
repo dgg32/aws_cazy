@@ -1,0 +1,357 @@
+GH78_query_2	EAA61403.1 hypothetical protein AN7151.2 [Aspergillus nidulans FGSC A4]|cazy|GH78_characterized	100.000	100	905	0	0	1	905	1	905	0.0	1857
+GH78_query_2	CCB96437.1 alpha-L-rhamnosidase [Aspergillus nidulans]|cazy|GH78	97.941	97	874	1	1	1	874	1	857	0.0	1748
+GH78_query_2	BCS30463.1 hypothetical protein APUU_80766S [Aspergillus puulaauensis]|cazy|GH78	76.888	97	874	185	1	1	874	1	857	0.0	1434
+GH78_query_2	AFH54529.1 alpha-L-rhamnosidase [Aspergillus terreus]|cazy|GH78_characterized_structure	67.720	97	886	253	8	1	874	1	865	0.0	1231
+GH78_query_2	QMW48395.1 hypothetical protein G4B11_011913 [Aspergillus flavus]|cazy|GH78	55.353	96	878	370	7	1	873	1	861	0.0	976
+GH78_query_2	QRD92653.1 alfa-L-rhamnosidase [Aspergillus flavus]|cazy|GH78	55.467	96	878	369	7	1	873	1	861	0.0	974
+GH78_query_2	QMW36341.1 hypothetical protein G4B84_011870 [Aspergillus flavus NRRL3357]|cazy|GH78	55.467	96	878	369	7	1	873	1	861	0.0	974
+GH78_query_2	BAE66403.1 unnamed protein product [Aspergillus oryzae RIB40]|cazy|GH78	55.176	96	879	346	11	1	873	1	837	0.0	951
+GH78_query_2	AFA53086.1 extracellular glycosyl hydrolase family 78 protein [Xylaria polymorpha]|cazy|GH78_characterized	54.328	97	878	377	6	1	874	1	858	0.0	939
+GH78_query_2	BCS18429.1 hypothetical protein APUU_11257A [Aspergillus puulaauensis]|cazy|GH78	46.592	97	895	433	20	9	882	10	880	0.0	786
+GH78_query_2	EAA65188.1 hypothetical protein AN0711.2 [Aspergillus nidulans FGSC A4]|cazy|GH78	46.999	96	883	430	16	9	875	623	1483	0.0	775
+GH78_query_2	CAK38995.1 unnamed protein product [Aspergillus niger]|cazy|GH78	44.073	98	928	457	22	5	893	7	911	0.0	763
+GH78_query_2	BAE58123.1 unnamed protein product [Aspergillus oryzae RIB40]|cazy|GH78	44.040	96	906	454	15	3	873	5	892	0.0	756
+GH78_query_2	QRD82895.1 bacterial alpha-L-rhamnosidase-domain-containing protein [Aspergillus flavus]|cazy|GH78	44.040	96	906	454	15	3	873	5	892	0.0	755
+GH78_query_2	QMW28401.1 hypothetical protein G4B84_003690 [Aspergillus flavus NRRL3357]|cazy|GH78	44.040	96	906	454	15	3	873	5	892	0.0	755
+GH78_query_2	BCS17263.1 hypothetical protein APUU_10091A [Aspergillus puulaauensis]|cazy|GH78	44.346	96	902	452	19	3	873	5	887	0.0	754
+GH78_query_2	QMW40472.1 hypothetical protein G4B11_003752 [Aspergillus flavus]|cazy|GH78	43.929	96	906	455	15	3	873	5	892	0.0	754
+GH78_query_2	AAR96046.1 alpha-L-rhamnosidase A [Thermomicrobia bacterium PRI-1686]|cazy|GH78_characterized	46.689	96	876	432	13	3	871	2	849	0.0	749
+GH78_query_2	BCS09327.1 hypothetical protein ALUC_30144A [Aspergillus luchuensis]|cazy|GH78	43.722	96	908	453	19	3	873	5	891	0.0	748
+GH78_query_2	BCR96839.1 hypothetical protein AKAW2_30158A [Aspergillus luchuensis]|cazy|GH78	43.722	96	908	453	19	3	873	5	891	0.0	748
+GH78_query_2	EAA62466.1 hypothetical protein AN5306.2 [Aspergillus nidulans FGSC A4]|cazy|GH78	44.255	94	879	443	17	3	854	5	863	0.0	745
+GH78_query_2	QSZ48646.1 alpha-L-rhamnosidase [Arthrobacter sp. D5-1]|cazy|CBM67	44.570	96	884	454	12	1	873	1	859	0.0	732
+GH78_query_2	QRD94839.1 bacterial alpha-L-rhamnosidase-domain-containing protein [Aspergillus flavus]|cazy|GH78	43.377	96	906	459	18	5	874	4	891	0.0	718
+GH78_query_2	QMW33495.1 hypothetical protein G4B84_008961 [Aspergillus flavus NRRL3357]|cazy|GH78	43.377	96	906	459	18	5	874	4	891	0.0	718
+GH78_query_2	AUZ88399.1 alpha-L-rhamnosidase [Arthrobacter agilis]|cazy|CBM67	44.859	97	885	456	12	1	878	1	860	0.0	716
+GH78_query_2	QPC63297.1 hypothetical protein HYE67_005528 [Fusarium culmorum]|cazy|CBM67	42.580	94	876	462	11	1	854	1	857	0.0	684
+GH78_query_2	BBH67963.1 alpha-L-rhamnosidase [Actinoplanes sp. OR16]|cazy|GH78	43.414	96	873	449	13	5	873	11	842	0.0	684
+GH78_query_2	QRD85046.1 bacterial alpha-L-rhamnosidase domain protein [Aspergillus flavus]|cazy|GH78	41.769	96	893	480	20	5	876	4	877	0.0	674
+GH78_query_2	QMW33438.1 hypothetical protein G4B84_008869 [Aspergillus flavus NRRL3357]|cazy|GH78	41.769	96	893	480	20	5	876	4	877	0.0	674
+GH78_query_2	QMW45476.1 hypothetical protein G4B11_008896 [Aspergillus flavus]|cazy|GH78	41.769	96	893	480	20	5	876	4	877	0.0	674
+GH78_query_2	BBH63318.1 alpha-L-rhamnosidase [Actinoplanes sp. OR16]|cazy|GH78	42.776	96	879	458	16	2	873	4	844	0.0	673
+GH78_query_2	BBH68331.1 alpha-L-rhamnosidase [Actinoplanes sp. OR16]|cazy|GH78	41.705	95	868	459	12	10	873	16	840	0.0	662
+GH78_query_2	ACU35993.1 alpha-L-rhamnosidase [Actinosynnema mirum DSM 43827]|cazy|GH78	42.469	97	883	454	14	6	882	19	853	0.0	660
+GH78_query_2	ATE53662.1 alpha-L-rhamnosidase [Actinosynnema pretiosum]|cazy|GH78	42.469	97	883	454	15	6	882	19	853	0.0	659
+GH78_query_2	AXX29445.1 Alfa-L-rhamnosidase [Actinosynnema pretiosum subsp. pretiosum]|cazy|GH78	42.356	97	883	455	14	6	882	19	853	0.0	657
+GH78_query_2	SDT09150.1 alpha-L-rhamnosidase [Actinoplanes derwentensis]|cazy|GH78	41.847	96	877	461	15	10	882	6	837	0.0	655
+GH78_query_2	BAL86047.1 putative alpha-L-rhamnosidase [Actinoplanes missouriensis 431]|cazy|GH78	41.522	95	867	462	13	10	873	16	840	0.0	655
+GH78_query_2	AGZ42142.1 alpha-L-rhamnosidase [Actinoplanes friuliensis DSM 7358]|cazy|GH78	41.047	94	860	460	15	7	858	2	822	0.0	634
+GH78_query_2	VEG29251.1 Bacterial alpha-L-rhamnosidase [Actinomyces howellii]|cazy|GH78	38.604	95	917	477	19	17	873	45	935	0.0	607
+GH78_query_2	SDS60723.1 alpha-L-rhamnosidase [Actinoplanes derwentensis]|cazy|GH78	44.293	80	736	367	11	134	857	18	722	0.0	596
+GH78_query_2	QPL05073.1 family 78 glycoside hydrolase catalytic domain [Actinomyces sp. ZJ750]|cazy|GH78	38.445	95	913	487	15	17	874	45	937	0.0	577
+GH78_query_2	AYD49342.1 alpha-L-rhamnosidase [Arachidicoccus soli]|cazy|CBM67	38.084	94	877	485	20	3	854	33	876	0.0	572
+GH78_query_2	BAL89931.1 putative alpha-L-rhamnosidase [Actinoplanes missouriensis 431]|cazy|GH78	42.954	80	738	383	9	134	857	20	733	0.0	568
+GH78_query_2	BAL88166.1 putative alpha-L-rhamnosidase [Actinoplanes missouriensis 431]|cazy|GH78	39.141	87	792	450	12	113	898	5	770	0.0	566
+GH78_query_2	QFG26930.1 Bacterial alpha-L-rhamnosidase [Actinomadura sp. WMMB 499]|cazy|GH78	40.830	81	747	403	11	133	867	15	734	0.0	559
+GH78_query_2	QHO90356.1 alpha-L-rhamnosidase [Actinomyces sp. 432]|cazy|GH78	37.000	97	900	498	16	7	881	80	935	0.0	553
+GH78_query_2	AYD90522.1 alpha-L-rhamnosidase [Actinomyces lilanjuaniae]|cazy|GH78	35.903	95	947	488	15	10	871	58	970	4.97e-175	536
+GH78_query_2	QPL05278.1 family 78 glycoside hydrolase catalytic domain [Actinomyces sp. ZJ750]|cazy|GH78	37.011	95	870	503	13	11	871	35	868	5.97e-171	523
+GH78_query_2	AYA78378.1 alpha-L-rhamnosidase [Bacillus sp. Y1]|cazy|CBM67	33.655	96	933	537	19	3	874	5	916	2.87e-163	501
+GH78_query_2	QDU57486.1 Bacterial alpha-L-rhamnosidase [Aeoliella mucimassa]|cazy|GH78	35.538	95	892	496	23	17	874	40	886	1.57e-160	493
+GH78_query_2	AYY12411.1 alpha-L-rhamnosidase [Actinobacteria bacterium YIM 96077]|cazy|GH78	35.978	94	895	497	19	11	858	10	875	8.34e-157	483
+GH78_query_2	SDR72877.1 alpha-L-rhamnosidase [Actinopolymorpha singaporensis]|cazy|GH78	39.390	94	754	405	14	128	863	323	1042	1.03e-156	489
+GH78_query_2	SDR72877.1 alpha-L-rhamnosidase [Actinopolymorpha singaporensis]|cazy|GH78	24.571	94	350	181	13	11	310	16	332	0.001	43.9
+GH78_query_2	QFG21259.1 Bacterial alpha-L-rhamnosidase [Actinomadura sp. WMMB 499]|cazy|CBM67|GH78	34.624	95	904	513	22	3	863	16	884	7.84e-153	474
+GH78_query_2	BAC68538.1 putative rhamnosidase [Streptomyces avermitilis MA-4680 = NBRC 14893]|cazy|CBM67|GH78_characterized_structure	38.421	96	760	412	17	134	873	305	1028	9.18e-153	477
+GH78_query_2	BAC68538.1 putative rhamnosidase [Streptomyces avermitilis MA-4680 = NBRC 14893]|cazy|CBM67|GH78_characterized_structure	25.079	96	315	168	10	2	287	3	278	1.78e-11	69.7
+GH78_query_2	CDF79921.1 alpha-L-rhamnosidase (GH78) [Formosa agariphila KMM 3901]|cazy|GH78_characterized	32.794	93	866	532	16	11	854	19	856	2.20e-151	470
+GH78_query_2	AYY12568.1 alpha-L-rhamnosidase [Actinobacteria bacterium YIM 96077]|cazy|GH78	34.267	94	893	504	20	2	854	13	862	1.07e-150	468
+GH78_query_2	BCJ35509.1 rhamnosidase [Actinocatenispora thailandica]|cazy|GH78	39.538	92	736	397	18	128	854	265	961	1.95e-150	470
+GH78_query_2	BCJ35509.1 rhamnosidase [Actinocatenispora thailandica]|cazy|GH78	30.833	92	120	68	5	17	125	19	134	8.42e-04	44.7
+GH78_query_2	BCJ30336.1 rhamnosidase [Actinocatenispora sera]|cazy|GH78	40.027	92	737	392	18	128	854	274	970	6.78e-148	464
+GH78_query_2	BCJ30336.1 rhamnosidase [Actinocatenispora sera]|cazy|GH78	30.645	92	124	63	5	17	125	19	134	0.003	42.4
+GH78_query_2	QMW45536.1 hypothetical protein G4B11_008991 [Aspergillus flavus]|cazy|GH78	44.154	60	573	274	15	5	549	4	558	1.59e-147	448
+GH78_query_2	BAE63198.1 unnamed protein product [Aspergillus oryzae RIB40]|cazy|GH78	41.791	65	603	319	16	5	591	4	590	2.40e-144	442
+GH78_query_2	VEM00390.1 alpha-L-rhamnosidase (plasmid) [Alteromonas sp. 76-1]|cazy|CBM67	33.371	95	887	539	17	17	878	44	903	3.14e-144	452
+GH78_query_2	BAL87853.1 putative alpha-L-rhamnosidase [Actinoplanes missouriensis 431]|cazy|GH78	34.537	94	886	497	24	3	854	1	837	2.18e-143	448
+GH78_query_2	SDT06954.1 NPCBM-associated, NEW3 domain of alpha-galactosidase [Actinoplanes derwentensis]|cazy|GH78	38.784	92	740	396	16	134	856	344	1043	4.06e-143	463
+GH78_query_2	SDT06954.1 NPCBM-associated, NEW3 domain of alpha-galactosidase [Actinoplanes derwentensis]|cazy|GH78	31.356	92	118	71	3	5	113	45	161	7.23e-05	48.1
+GH78_query_2	ADJ46874.1 rhamnosidase [Amycolatopsis mediterranei U32]|cazy|CBM67	37.379	94	725	417	11	134	854	490	1181	5.00e-140	448
+GH78_query_2	ADJ46874.1 rhamnosidase [Amycolatopsis mediterranei U32]|cazy|CBM67	22.156	94	334	191	12	3	310	202	492	0.010	41.2
+GH78_query_2	ADJ46874.1 rhamnosidase [Amycolatopsis mediterranei U32]|cazy|CBM67	26.875	94	160	70	7	133	287	56	173	0.95	34.7
+GH78_query_2	AEK43682.1 rhamnosidase [Amycolatopsis mediterranei S699]|cazy|CBM67	37.379	94	725	417	11	134	854	490	1181	5.00e-140	448
+GH78_query_2	AEK43682.1 rhamnosidase [Amycolatopsis mediterranei S699]|cazy|CBM67	22.156	94	334	191	12	3	310	202	492	0.010	41.2
+GH78_query_2	AEK43682.1 rhamnosidase [Amycolatopsis mediterranei S699]|cazy|CBM67	26.875	94	160	70	7	133	287	56	173	0.95	34.7
+GH78_query_2	AGT85713.1 rhamnosidase [Amycolatopsis mediterranei RB]|cazy|CBM67	37.379	94	725	417	11	134	854	490	1181	5.00e-140	448
+GH78_query_2	AGT85713.1 rhamnosidase [Amycolatopsis mediterranei RB]|cazy|CBM67	22.156	94	334	191	12	3	310	202	492	0.010	41.2
+GH78_query_2	AGT85713.1 rhamnosidase [Amycolatopsis mediterranei RB]|cazy|CBM67	26.875	94	160	70	7	133	287	56	173	0.95	34.7
+GH78_query_2	QKW37346.1 family 78 glycoside hydrolase catalytic domain [Actinomadura sp. NAK00032]|cazy|GH78	32.705	95	902	528	20	2	863	8	870	4.08e-139	439
+GH78_query_2	VEM00346.1 alpha-L-rhamnosidase (plasmid) [Alteromonas sp. 76-1]|cazy|CBM67	32.393	93	886	526	15	17	854	51	911	7.93e-139	438
+GH78_query_2	QEH38718.1 Bacterial alpha-L-rhamnosidase [Aquisphaera giovannonii]|cazy|CBM67	31.878	96	916	546	15	3	873	46	928	4.99e-138	449
+GH78_query_2	BCJ46988.1 rhamnosidase [Actinoplanes ianthinogenes]|cazy|CBM67|GH78	35.942	82	754	436	14	133	873	474	1193	5.65e-138	442
+GH78_query_2	CAB53341.1 alfa-L-rhamnosidase [Thermoclostridium stercorarium]|cazy|GH78_characterized	33.826	81	745	449	13	131	865	125	835	8.58e-137	431
+GH78_query_2	QKV72422.1 family 78 glycoside hydrolase catalytic domain [Amycolatopsis sp. Hca4]|cazy|CBM67	37.346	95	731	420	12	134	859	493	1190	9.90e-136	437
+GH78_query_2	QKV72422.1 family 78 glycoside hydrolase catalytic domain [Amycolatopsis sp. Hca4]|cazy|CBM67	24.260	95	338	179	15	3	310	205	495	9.85e-07	54.3
+GH78_query_2	QKV72422.1 family 78 glycoside hydrolase catalytic domain [Amycolatopsis sp. Hca4]|cazy|CBM67	29.487	95	156	71	7	133	287	59	176	0.075	38.1
+GH78_query_2	ASO06560.1 bacterial alpha-L-rhamnosidase [Arenibacter algicola]|cazy|CBM67	30.347	95	893	556	15	2	863	27	884	1.34e-134	426
+GH78_query_2	AQT67447.1 Bacterial alpha-L-rhamnosidase [Anaerohalosphaera lusitana]|cazy|CBM67	35.109	94	732	431	15	133	854	336	1033	8.69e-134	428
+GH78_query_2	AQT67447.1 Bacterial alpha-L-rhamnosidase [Anaerohalosphaera lusitana]|cazy|CBM67	26.056	94	284	155	9	3	254	31	291	2.71e-12	72.4
+GH78_query_2	ATO82229.1 rhamnosidase [Actinoplanes sp. SE50]|cazy|CBM67|GH78	35.942	82	754	436	15	133	873	464	1183	3.78e-133	429
+GH78_query_2	ATO82229.1 rhamnosidase [Actinoplanes sp. SE50]|cazy|CBM67|GH78	30.380	82	79	47	2	240	310	389	467	1.7	33.9
+GH78_query_2	AEV83627.1 alpha-L-rhamnosidase [Actinoplanes sp. SE50/110]|cazy|CBM67|GH78	35.942	82	754	436	15	133	873	464	1183	3.78e-133	429
+GH78_query_2	AEV83627.1 alpha-L-rhamnosidase [Actinoplanes sp. SE50/110]|cazy|CBM67|GH78	30.380	82	79	47	2	240	310	389	467	1.7	33.9
+GH78_query_2	BBH70184.1 alpha-L-rhamnosidase [Actinoplanes sp. OR16]|cazy|CBM67|GH78	33.523	94	880	502	22	3	854	1	825	6.72e-133	420
+GH78_query_2	BCJ55202.1 rhamnosidase [Actinoplanes sp. NBRC 14428]|cazy|GH78	35.911	94	763	432	18	102	854	459	1174	2.40e-131	425
+GH78_query_2	BCJ55202.1 rhamnosidase [Actinoplanes sp. NBRC 14428]|cazy|GH78	24.837	94	306	159	13	3	287	212	467	1.24e-06	53.9
+GH78_query_2	ACI19983.1 alpha-rhamnosidase [Dictyoglomus thermophilum H-6-12]|cazy|GH78_characterized_structure	30.550	97	946	527	27	11	886	15	900	1.14e-129	413
+GH78_query_2	AXJ10973.1 alpha-L-rhamnosidase [Arthrobacter sp. PM3]|cazy|CBM67	32.892	95	906	525	26	11	873	10	875	1.81e-128	409
+GH78_query_2	AGZ44920.1 alpha-L-rhamnosidase [Actinoplanes friuliensis DSM 7358]|cazy|CBM67|GH78	35.626	94	727	419	15	133	854	495	1177	7.12e-128	416
+GH78_query_2	AGZ44920.1 alpha-L-rhamnosidase [Actinoplanes friuliensis DSM 7358]|cazy|CBM67|GH78	23.377	94	308	166	13	3	287	209	469	2.29e-05	49.7
+GH78_query_2	AXC10873.1 Alfa-L-rhamnosidase [Acidisarcina polymorpha]|cazy|CBM67|GH78	33.416	95	805	467	16	107	876	275	1045	9.96e-127	409
+GH78_query_2	AXC10873.1 Alfa-L-rhamnosidase [Acidisarcina polymorpha]|cazy|CBM67|GH78	27.315	95	216	126	7	17	204	5	217	6.10e-07	54.7
+GH78_query_2	AAV43293.1 alfa-l-rhamnosidase [Lactobacillus acidophilus NCFM]|cazy|GH78_characterized	32.617	81	745	451	16	134	868	122	825	7.88e-124	398
+GH78_query_2	BBD73297.1 alpha-rhamnosidase [Sulfodiicoccus acidiphilus]|cazy|GH78	32.315	92	851	496	20	21	854	21	808	1.33e-123	395
+GH78_query_2	ASB39602.1 hypothetical protein ADH66_02360 [Acutalibacter muris]|cazy|GH78	32.087	85	829	484	21	108	874	102	913	1.35e-123	397
+GH78_query_2	QDU55907.1 Bacterial alpha-L-rhamnosidase [Aeoliella mucimassa]|cazy|CBM67|GH78	33.111	94	749	452	13	131	869	332	1041	9.79e-121	394
+GH78_query_2	QDU55907.1 Bacterial alpha-L-rhamnosidase [Aeoliella mucimassa]|cazy|CBM67|GH78	26.667	94	120	78	2	2	112	30	148	1.46e-04	47.0
+GH78_query_2	QHO90360.1 alpha-L-rhamnosidase [Actinomyces sp. 432]|cazy|GH78	31.872	93	935	522	27	1	838	1	917	1.37e-118	385
+GH78_query_2	QQA37040.1 family 78 glycoside hydrolase catalytic domain [Aerococcaceae bacterium zg-1292]|cazy|GH78	32.546	82	762	452	20	121	861	38	758	8.57e-115	370
+GH78_query_2	ACV10344.1 alpha-L-rhamnosidase [Halorhabdus utahensis DSM 12940]|cazy|GH78	34.584	81	746	428	21	134	863	343	1044	3.62e-114	376
+GH78_query_2	ACP46713.1 alpha-L-rhamnosidase [Sulfolobus islandicus Y.G.57.14]|cazy|GH78	29.418	94	894	524	24	4	854	3	832	1.06e-112	367
+GH78_query_2	ABW01021.1 alpha-L-rhamnosidase [Caldivirga maquilingensis IC-167]|cazy|GH78	29.921	94	889	532	25	3	854	5	839	1.70e-112	367
+GH78_query_2	ACP39062.1 alpha-L-rhamnosidase [Sulfolobus islandicus M.14.25]|cazy|GH78	29.418	94	894	524	24	4	854	3	832	1.97e-112	367
+GH78_query_2	ACP56266.1 alpha-L-rhamnosidase [Sulfolobus islandicus M.16.27]|cazy|GH78	29.418	94	894	524	24	4	854	3	832	1.97e-112	367
+GH78_query_2	AVM61949.1 alpha-L-rhamnosidase [Actinomyces sp. oral taxon 897]|cazy|GH78	31.364	91	931	513	26	8	831	3	914	3.16e-112	369
+GH78_query_2	QQO78697.1 family 78 glycoside hydrolase catalytic domain [Actinomyces sp. HMT897]|cazy|GH78	31.364	91	931	513	26	8	831	3	914	3.16e-112	369
+GH78_query_2	ACP47597.1 alpha-L-rhamnosidase [Sulfolobus islandicus Y.N.15.51]|cazy|GH78	29.306	94	894	525	24	4	854	3	832	6.38e-112	365
+GH78_query_2	ADB88244.1 alpha-L-rhamnosidase [Sulfolobus islandicus L.D.8.5]|cazy|GH78	29.306	94	894	525	24	4	854	3	832	7.77e-112	365
+GH78_query_2	ACP36462.1 alpha-L-rhamnosidase [Sulfolobus islandicus L.S.2.15]|cazy|GH78	29.306	94	894	525	24	4	854	3	832	1.54e-111	364
+GH78_query_2	ACR42936.1 alpha-L-rhamnosidase [Sulfolobus islandicus M.16.4]|cazy|GH78	29.306	94	894	525	24	4	854	3	832	1.69e-111	364
+GH78_query_2	ADX83610.1 alpha-L-rhamnosidase [Sulfolobus islandicus HVE10/4]|cazy|GH78	29.195	94	894	526	24	4	854	3	832	4.00e-111	363
+GH78_query_2	AGJ63617.1 alpha-L-rhamnosidase [Sulfolobus islandicus LAL14/1]|cazy|GH78	29.195	94	894	526	24	4	854	3	832	4.00e-111	363
+GH78_query_2	ADX86270.1 alpha-L-rhamnosidase [Sulfolobus islandicus REY15A]|cazy|GH78	29.195	94	894	526	24	4	854	3	832	1.88e-110	361
+GH78_query_2	QRV17646.1 family 78 glycoside hydrolase catalytic domain (plasmid) [Haloterrigena salifodinae]|cazy|CBM0|GH78	33.119	85	779	463	26	122	889	339	1070	1.38e-109	363
+GH78_query_2	QGA22985.1 Bacterial alpha-L-rhamnosidase [Alistipes sp. dk3624]|cazy|CBM67	29.263	95	950	531	27	7	863	24	925	3.77e-105	349
+GH78_query_2	AHG01378.1 hypothetical protein HALLA_03050 (plasmid) [Halostagnicola larsenii XH-48]|cazy|GH78	32.104	80	732	451	20	134	856	349	1043	3.42e-103	346
+GH78_query_2	QGA23896.1 Bacterial alpha-L-rhamnosidase [Alistipes sp. dk3624]|cazy|CBM67	27.590	97	917	591	20	2	882	28	907	4.53e-102	340
+GH78_query_2	QGA24212.1 Bacterial alpha-L-rhamnosidase [Alistipes sp. dk3624]|cazy|CBM67	29.715	95	912	548	27	11	873	32	899	2.27e-101	337
+GH78_query_2	AAO76120.1 putative alpha-rhamnosidase [Bacteroides thetaiotaomicron VPI-5482]|cazy|GH33|GH78_characterized	28.355	96	924	565	27	2	873	24	902	3.34e-97	333
+GH78_query_2	QEC52471.1 Bacterial alpha-L-rhamnosidase [Anseongella ginsenosidimutans]|cazy|CBM67	27.938	93	902	559	22	12	856	30	897	4.66e-97	327
+GH78_query_2	AYA62631.1 alpha-L-rhamnosidase [Alteromonas sp. RKMC-009]|cazy|CBM67	31.572	80	795	438	24	134	856	438	1198	7.90e-97	331
+GH78_query_2	SDT78572.1 Alpha-L-rhamnosidase N-terminal domain-containing protein [Actinoplanes derwentensis]|cazy|GH78	37.625	92	598	310	17	305	875	401	962	1.74e-96	325
+GH78_query_2	SDT78572.1 Alpha-L-rhamnosidase N-terminal domain-containing protein [Actinoplanes derwentensis]|cazy|GH78	31.847	92	314	149	9	11	269	5	308	2.19e-27	120
+GH78_query_2	BBL03048.1 hydrolase [Alistipes communis]|cazy|CBM67	27.542	96	944	570	23	3	874	23	924	3.09e-93	316
+GH78_query_2	AMY08912.1 Bacterial alpha-L-rhamnosidase [Luteitalea pratensis]|cazy|GH78	30.479	80	794	444	19	134	854	399	1157	7.06e-93	320
+GH78_query_2	ASA25778.1 hypothetical protein B9T62_36655 [Paenibacillus donghaensis]|cazy|GH137	28.698	96	906	564	30	1	872	330	1187	3.39e-90	312
+GH78_query_2	AAO76126.1 glycoside hydrolase family 78 [Bacteroides thetaiotaomicron VPI-5482]|cazy|GH78_characterized	27.443	95	962	552	28	14	873	2	919	7.17e-89	304
+GH78_query_2	QGA24281.1 Bacterial alpha-L-rhamnosidase [Alistipes sp. dk3624]|cazy|CBM67	28.046	92	870	557	29	26	858	55	892	4.56e-87	299
+GH78_query_2	BBL00464.1 hydrolase [Alistipes onderdonkii subsp. vulgaris]|cazy|CBM67	27.192	94	901	564	21	3	854	25	882	4.57e-87	299
+GH78_query_2	ASO21273.1 Bacterial alpha-L-rhamnosidase [Actinoalloteichus hoggarensis]|cazy|CBM67|GH78	29.216	93	753	466	14	124	854	347	1054	2.61e-86	300
+GH78_query_2	ASO21273.1 Bacterial alpha-L-rhamnosidase [Actinoalloteichus hoggarensis]|cazy|CBM67|GH78	30.252	93	119	72	4	3	113	52	167	0.024	39.7
+GH78_query_2	AXB44940.1 hydrolase [Amycolatopsis albispora]|cazy|CBM67	29.962	94	781	474	18	92	854	294	1019	2.43e-85	296
+GH78_query_2	AXB44940.1 hydrolase [Amycolatopsis albispora]|cazy|CBM67	27.604	94	192	114	5	8	180	46	231	0.002	43.1
+GH78_query_2	QFU86450.1 Bacterial alpha-L-rhamnosidase [Amycolatopsis sp. YIM 10]|cazy|CBM67	29.653	94	806	492	17	80	856	261	1020	1.61e-82	288
+GH78_query_2	QFU86450.1 Bacterial alpha-L-rhamnosidase [Amycolatopsis sp. YIM 10]|cazy|CBM67	24.430	94	307	164	9	3	289	40	298	0.006	42.0
+GH78_query_2	APU16102.1 alpha-L-rhamnosidase [Actinoalloteichus fjordicus]|cazy|CBM67|GH78	29.133	92	738	465	13	134	854	359	1055	2.98e-82	288
+GH78_query_2	APU16102.1 alpha-L-rhamnosidase [Actinoalloteichus fjordicus]|cazy|CBM67|GH78	30.833	92	120	72	4	2	113	52	168	0.036	39.3
+GH78_query_2	APU22167.1 alpha-L-rhamnosidase [Actinoalloteichus sp. GBA129-24]|cazy|CBM67|GH78	29.133	92	738	465	13	134	854	359	1055	3.22e-82	288
+GH78_query_2	APU22167.1 alpha-L-rhamnosidase [Actinoalloteichus sp. GBA129-24]|cazy|CBM67|GH78	30.833	92	120	72	4	2	113	52	168	0.035	39.3
+GH78_query_2	SDS24190.1 alpha-L-rhamnosidase [Actinopolymorpha singaporensis]|cazy|GH78	27.639	95	919	568	24	11	874	18	894	4.29e-82	285
+GH78_query_2	BCJ35512.1 hypothetical protein Athai_30150 [Actinocatenispora thailandica]|cazy|GH78	29.095	94	873	545	27	17	863	50	874	8.33e-82	287
+GH78_query_2	BCJ30333.1 hypothetical protein Asera_44410 [Actinocatenispora sera]|cazy|GH78	29.036	93	861	543	24	17	856	50	863	3.31e-81	286
+GH78_query_2	QKG20448.1 hypothetical protein ACTIVE_2086 [Actinomadura verrucosospora]|cazy|GH78	29.960	92	751	445	20	131	854	337	1033	5.10e-81	287
+GH78_query_2	QKG20448.1 hypothetical protein ACTIVE_2086 [Actinomadura verrucosospora]|cazy|GH78	32.143	92	112	66	4	17	121	48	156	0.016	40.4
+GH78_query_2	QFG26813.1 Bacterial alpha-L-rhamnosidase [Actinomadura sp. WMMB 499]|cazy|CBM67|GH78	29.630	94	756	460	20	134	874	347	1045	4.56e-80	281
+GH78_query_2	QFG26813.1 Bacterial alpha-L-rhamnosidase [Actinomadura sp. WMMB 499]|cazy|CBM67|GH78	29.412	94	119	63	6	7	112	42	152	0.67	35.0
+GH78_query_2	BCJ55052.1 hydrolase [Actinoplanes sp. NBRC 14428]|cazy|CBM67|GH78	28.422	96	767	471	18	134	877	314	1025	6.57e-80	281
+GH78_query_2	BCJ55052.1 hydrolase [Actinoplanes sp. NBRC 14428]|cazy|CBM67|GH78	22.403	96	308	171	11	5	287	22	286	1.88e-05	50.1
+GH78_query_2	QMW45535.1 hypothetical protein G4B11_008990 [Aspergillus flavus]|cazy|GH78	42.667	32	300	165	2	561	853	1	300	1.65e-79	260
+GH78_query_2	AOS64238.1 alpha-L-rhamnosidase [Actinoalloteichus hymeniacidonis]|cazy|CBM67|GH78	28.137	83	789	484	18	102	856	337	1076	1.13e-78	278
+GH78_query_2	AGT84286.1 hydrolase [Amycolatopsis mediterranei RB]|cazy|CBM67	28.165	96	774	478	17	134	874	331	1059	3.02e-77	273
+GH78_query_2	AGT84286.1 hydrolase [Amycolatopsis mediterranei RB]|cazy|CBM67	24.762	96	315	162	13	3	287	34	303	1.56e-06	53.5
+GH78_query_2	ADJ45446.1 hydrolase [Amycolatopsis mediterranei U32]|cazy|CBM67	28.165	96	774	478	17	134	874	331	1059	3.02e-77	273
+GH78_query_2	ADJ45446.1 hydrolase [Amycolatopsis mediterranei U32]|cazy|CBM67	24.762	96	315	162	13	3	287	34	303	1.56e-06	53.5
+GH78_query_2	AEK42215.1 hydrolase [Amycolatopsis mediterranei S699]|cazy|CBM67	28.165	96	774	478	17	134	874	331	1059	3.02e-77	273
+GH78_query_2	AEK42215.1 hydrolase [Amycolatopsis mediterranei S699]|cazy|CBM67	24.762	96	315	162	13	3	287	34	303	1.56e-06	53.5
+GH78_query_2	QKW37237.1 family 78 glycoside hydrolase catalytic domain [Actinomadura sp. NAK00032]|cazy|GH78	28.997	91	738	450	19	134	856	348	1026	3.57e-75	268
+GH78_query_2	QKW37237.1 family 78 glycoside hydrolase catalytic domain [Actinomadura sp. NAK00032]|cazy|GH78	33.929	91	112	59	4	12	113	51	157	0.001	43.9
+GH78_query_2	QKG20444.1 glycogen debranching enzyme [Actinomadura verrucosospora]|cazy|GH78	28.841	93	742	454	19	134	859	339	1022	1.86e-74	265
+GH78_query_2	QKG20444.1 glycogen debranching enzyme [Actinomadura verrucosospora]|cazy|GH78	28.571	93	119	76	3	2	113	33	149	6.43e-04	45.1
+GH78_query_2	QKG20439.1 glycogen debranching enzyme [Actinomadura verrucosospora]|cazy|GH78	30.052	95	762	461	21	131	878	339	1042	1.25e-73	263
+GH78_query_2	QKG20439.1 glycogen debranching enzyme [Actinomadura verrucosospora]|cazy|GH78	27.966	95	118	70	5	5	112	34	146	3.8	32.7
+GH78_query_2	BCJ49643.1 hydrolase [Actinoplanes sp. NBRC 14428]|cazy|CBM67|GH78	28.320	80	738	480	13	134	854	347	1052	1.81e-72	260
+GH78_query_2	BAL89590.1 putative alpha-L-rhamnosidase [Actinoplanes missouriensis 431]|cazy|GH78	28.831	83	770	450	26	134	880	335	1029	4.34e-69	249
+GH78_query_2	QDU88571.1 Bacterial alpha-L-rhamnosidase [Pirellulimonas nuda]|cazy|GH160	24.400	99	959	614	30	2	895	792	1704	2.09e-68	250
+GH78_query_2	SDS09667.1 alpha-L-rhamnosidase [Actinopolymorpha singaporensis]|cazy|GH78	27.523	93	763	485	21	134	873	276	993	7.27e-62	228
+GH78_query_2	SDS09667.1 alpha-L-rhamnosidase [Actinopolymorpha singaporensis]|cazy|GH78	26.957	93	115	74	2	8	113	3	116	0.15	37.4
+GH78_query_2	CAK39248.1 unnamed protein product [Aspergillus niger]|cazy|GH78	24.511	80	767	491	15	130	854	160	880	1.03e-59	221
+GH78_query_2	BCS07621.1 hypothetical protein ALUC_12002S [Aspergillus luchuensis]|cazy|GH78	24.490	82	784	503	16	130	872	160	895	2.13e-57	214
+GH78_query_2	BCR95051.1 hypothetical protein AKAW2_12097S [Aspergillus luchuensis]|cazy|GH78	24.490	82	784	503	16	130	872	160	895	2.13e-57	214
+GH78_query_2	QDU53955.1 Bacterial alpha-L-rhamnosidase [Aeoliella mucimassa]|cazy|GH78	24.501	95	902	584	27	2	862	29	874	2.40e-52	199
+GH78_query_2	BCS28263.1 hypothetical protein APUU_61311S [Aspergillus puulaauensis]|cazy|GH78	23.857	82	809	501	19	126	871	151	907	2.29e-50	193
+GH78_query_2	AZZ41360.1 hydrolase [Acidipropionibacterium jensenii]|cazy|GH78	24.724	77	724	454	19	149	841	59	722	2.79e-46	179
+GH78_query_2	QRD91716.1 bacterial alpha-L-rhamnosidase-domain-containing protein [Aspergillus flavus]|cazy|GH78	24.072	83	781	524	21	130	877	156	900	1.11e-45	178
+GH78_query_2	QMW47375.1 hypothetical protein G4B11_010854 [Aspergillus flavus]|cazy|GH78	24.200	83	781	523	21	130	877	156	900	2.32e-45	179
+GH78_query_2	QMW35313.1 hypothetical protein G4B84_010804 [Aspergillus flavus NRRL3357]|cazy|GH78	24.200	83	781	523	21	130	877	156	900	2.32e-45	179
+GH78_query_2	EAA67087.1 hypothetical protein AN8465.2 [Aspergillus nidulans FGSC A4]|cazy|GH78	23.058	83	811	509	20	126	873	152	910	1.35e-44	175
+GH78_query_2	QCV95993.1 hydrolase [Acidipropionibacterium acidipropionici]|cazy|GH78	25.104	77	721	457	16	147	841	67	730	1.15e-42	168
+GH78_query_2	AOZ47625.1 hypothetical protein A8L58_14120 [Acidipropionibacterium acidipropionici]|cazy|GH78	24.967	80	749	478	17	147	873	62	748	4.60e-42	166
+GH78_query_2	AMS06164.1 hypothetical protein AXH35_12670 [Acidipropionibacterium acidipropionici]|cazy|GH78	24.967	80	749	478	17	147	873	62	748	4.60e-42	166
+GH78_query_2	AZP39052.1 hydrolase [Acidipropionibacterium acidipropionici]|cazy|GH78	24.967	80	749	478	17	147	873	62	748	4.60e-42	166
+GH78_query_2	AFV88420.1 Alpha-L-rhamnosidase [Acidipropionibacterium acidipropionici ATCC 4875]|cazy|GH78	24.967	80	749	478	18	147	873	62	748	1.68e-41	164
+GH78_query_2	BAL87855.1 putative alpha-L-rhamnosidase [Actinoplanes missouriensis 431]|cazy|GH78	25.872	91	688	416	24	228	861	361	1008	2.12e-41	166
+GH78_query_2	BAL87855.1 putative alpha-L-rhamnosidase [Actinoplanes missouriensis 431]|cazy|GH78	35.859	91	198	117	5	17	207	48	242	9.83e-23	105
+GH78_query_2	BBH70182.1 hypothetical protein ACTI_68670 [Actinoplanes sp. OR16]|cazy|CBM67|GH78	25.429	93	700	429	26	228	874	359	1018	5.54e-35	145
+GH78_query_2	BBH70182.1 hypothetical protein ACTI_68670 [Actinoplanes sp. OR16]|cazy|CBM67|GH78	33.333	93	198	120	6	17	207	48	240	5.04e-19	94.0
+GH78_query_2	QRV17784.1 family 78 glycoside hydrolase catalytic domain (plasmid) [Haloterrigena salifodinae]|cazy|GH78	25.322	93	932	525	43	11	854	12	860	3.20e-30	130
+GH78_query_2	ADB62757.1 alpha-L-rhamnosidase domain protein (plasmid) [Haloterrigena turkmenica DSM 5511]|cazy|GH78	23.834	95	965	564	39	11	873	12	907	9.26e-30	128
+GH78_query_2	ALN14224.1 hypothetical protein ASQ49_01940 [Acidipropionibacterium acidipropionici]|cazy|GH78	23.898	63	590	368	14	305	873	8	537	7.45e-29	123
+GH78_query_2	APZ10016.1 hypothetical protein BWX38_13015 [Acidipropionibacterium acidipropionici]|cazy|GH78	23.898	63	590	368	14	305	873	8	537	7.45e-29	123
+GH78_query_2	AEH39065.1 alpha-L-rhamnosidase domain protein (plasmid) [Halopiger xanaduensis SH-6]|cazy|GH78	24.074	93	918	553	39	11	854	12	859	4.99e-28	122
+GH78_query_2	QKG20445.1 alpha-L-rhamnosidase domain-containing protein [Actinomadura verrucosospora]|cazy|CBM67|GH78	24.123	95	912	556	34	21	876	55	886	5.08e-27	119
+GH78_query_2	VEI03008.1 Bacterial alpha-L-rhamnosidase [Acidipropionibacterium jensenii]|cazy|GH78	22.414	66	638	407	16	262	858	1	591	1.42e-26	117
+GH78_query_2	ASO20813.1 Bacterial alpha-L-rhamnosidase [Actinoalloteichus hoggarensis]|cazy|CBM67|GH78	25.278	92	898	532	39	23	854	57	881	2.23e-26	117
+GH78_query_2	AZZ40267.1 hypothetical protein C0Z10_11505 [Acidipropionibacterium jensenii]|cazy|GH78	23.693	59	574	371	15	321	858	44	586	3.17e-26	115
+GH78_query_2	AOS64561.1 alpha-L-rhamnosidase [Actinoalloteichus hymeniacidonis]|cazy|CBM67|GH78	24.860	92	893	546	39	21	854	56	882	3.32e-25	114
+GH78_query_2	APZ81739.1 alpha-L-rhamnosidase [Rathayibacter phage NCPPB3778]|cazy|GH78	22.600	86	823	531	28	18	798	16	774	1.39e-24	111
+GH78_query_2	APU21677.1 alpha-L-rhamnosidase [Actinoalloteichus sp. GBA129-24]|cazy|CBM67|GH78	23.542	94	909	567	38	6	854	42	882	1.19e-21	102
+GH78_query_2	APU15617.1 alpha-L-rhamnosidase [Actinoalloteichus fjordicus]|cazy|CBM67|GH78	23.542	94	909	567	38	6	854	42	882	1.19e-21	102
+GH78_query_2	QFU88425.1 Bacterial alpha-L-rhamnosidase [Amycolatopsis sp. YIM 10]|cazy|CBM67	24.409	93	889	552	36	21	863	44	858	1.78e-21	101
+GH78_query_2	AHG01361.1 alpha-L-rhamnosidase (plasmid) [Halostagnicola larsenii XH-48]|cazy|CBM67|GH78	23.953	93	931	542	42	11	856	12	861	5.99e-21	100
+GH78_query_2	QFG20463.1 Bacterial alpha-L-rhamnosidase [Actinomadura sp. WMMB 499]|cazy|CBM67|GH78	26.124	48	467	283	20	21	457	58	492	8.18e-20	96.7
+GH78_query_2	QDU56936.1 Bacterial alpha-L-rhamnosidase [Aeoliella mucimassa]|cazy|GH78	22.242	69	571	340	21	324	854	174	680	2.45e-12	72.0
+GH78_query_2	QDU56936.1 Bacterial alpha-L-rhamnosidase [Aeoliella mucimassa]|cazy|GH78	28.571	69	98	60	2	10	98	44	140	0.072	38.1
+GH78_query_2	QRD93311.1 alpha-L-rhamnosidase family protein [Aspergillus flavus]|cazy|GH78	31.527	47	203	122	7	300	490	49	246	2.71e-12	71.6
+GH78_query_2	QRD93311.1 alpha-L-rhamnosidase family protein [Aspergillus flavus]|cazy|GH78	27.170	47	265	144	11	621	854	309	555	8.34e-10	63.5
+GH78_query_2	QMW47839.1 hypothetical protein G4B11_011357 [Aspergillus flavus]|cazy|GH78	31.527	47	203	122	7	300	490	49	246	2.71e-12	71.6
+GH78_query_2	QMW47839.1 hypothetical protein G4B11_011357 [Aspergillus flavus]|cazy|GH78	27.170	47	265	144	11	621	854	309	555	8.34e-10	63.5
+GH78_query_2	QMW35777.1 hypothetical protein G4B84_011306 [Aspergillus flavus NRRL3357]|cazy|GH78	31.527	47	203	122	7	300	490	49	246	2.71e-12	71.6
+GH78_query_2	QMW35777.1 hypothetical protein G4B84_011306 [Aspergillus flavus NRRL3357]|cazy|GH78	27.170	47	265	144	11	621	854	309	555	8.34e-10	63.5
+GH78_query_2	QGA55345.1 Bacterial alpha-L-rhamnosidase [Sulfolobus sp. E5-1-F]|cazy|GH78	31.532	12	111	68	2	744	854	18	120	1.45e-10	61.6
+GH78_query_2	BAE65861.1 unnamed protein product [Aspergillus oryzae RIB40]|cazy|GH78	28.077	25	260	139	11	627	854	1	244	2.94e-10	63.5
+GH78_query_2	QFG20462.1 Bacterial alpha-L-rhamnosidase [Actinomadura sp. WMMB 499]|cazy|GH78	22.975	79	753	473	34	134	851	346	1026	3.82e-10	65.1
+GH78_query_2	AHJ22585.1 putative rhamnosidase [Bifidobacterium breve 689b]|cazy|GH78_characterized	21.290	79	775	458	28	133	844	70	755	4.77e-10	64.7
+GH78_query_2	BCG54172.1 hypothetical protein AI2BBH_12180 [Alistipes indistinctus]|cazy|CBM67	21.457	78	755	457	33	148	851	62	731	5.63e-10	64.3
+GH78_query_2	QKW37236.1 family 78 glycoside hydrolase catalytic domain [Actinomadura sp. NAK00032]|cazy|GH78	23.989	88	742	457	36	142	851	341	1007	8.29e-10	64.3
+GH78_query_2	QKW37236.1 family 78 glycoside hydrolase catalytic domain [Actinomadura sp. NAK00032]|cazy|GH78	30.612	88	98	56	4	17	105	51	145	1.4	33.9
+GH78_query_2	QTN32968.1 alpha-L-rhamnosidase N-terminal domain-containing protein [Akkermansiaceae bacterium]|cazy|CBM67	19.829	74	701	457	26	184	854	261	886	9.19e-10	63.9
+GH78_query_2	AAR96047.1 alpha-L-rhamnosidase B [Thermomicrobia bacterium PRI-1686]|cazy|CBM67|GH78_characterized	21.352	77	562	365	17	316	854	431	938	1.81e-09	63.2
+GH78_query_2	AAR96047.1 alpha-L-rhamnosidase B [Thermomicrobia bacterium PRI-1686]|cazy|CBM67|GH78_characterized	28.313	77	166	97	6	132	287	21	174	2.63e-05	49.3
+GH78_query_2	QGA22734.1 Bacterial alpha-L-rhamnosidase [Alistipes sp. dk3624]|cazy|CBM67	21.843	81	792	450	38	134	866	52	733	2.44e-09	62.4
+GH78_query_2	QGA23168.1 Bacterial alpha-L-rhamnosidase [Alistipes sp. dk3624]|cazy|CBM67	21.575	59	584	371	20	134	667	57	603	5.26e-09	61.2
+GH78_query_2	QKG20443.1 alpha-L-rhamnosidase domain-containing protein [Actinomadura verrucosospora]|cazy|GH78	27.542	40	236	143	7	176	401	384	601	1.19e-08	60.5
+GH78_query_2	QKG20443.1 alpha-L-rhamnosidase domain-containing protein [Actinomadura verrucosospora]|cazy|GH78	27.891	40	147	75	6	17	154	57	181	0.008	41.2
+GH78_query_2	ASB50049.1 glycoside hydrolase [Alkalitalea saponilacus]|cazy|CBM67	20.745	83	805	478	32	108	855	20	721	1.47e-08	60.1
+GH78_query_2	BCG54174.1 hypothetical protein AI2BBH_12200 [Alistipes indistinctus]|cazy|CBM67	24.397	51	373	202	17	134	471	43	370	1.34e-07	56.6
+GH78_query_2	BCG54174.1 hypothetical protein AI2BBH_12200 [Alistipes indistinctus]|cazy|CBM67	24.590	51	122	81	3	750	871	618	728	0.23	36.6
+GH78_query_2	ASM67368.1 glycoside hydrolase [Bacteroides caccae]|cazy|CBM67	19.889	74	719	440	27	184	856	92	720	2.39e-07	55.8
+GH78_query_2	QQT79846.1 family 78 glycoside hydrolase catalytic domain [Bacteroides caccae]|cazy|CBM67	19.889	74	719	440	27	184	856	91	719	2.43e-07	55.8
+GH78_query_2	QRP59702.1 family 78 glycoside hydrolase catalytic domain [Bacteroides caccae]|cazy|CBM67	19.889	74	719	440	27	184	856	91	719	2.43e-07	55.8
+GH78_query_2	ALJ59524.1 Bacterial alpha-L-rhamnosidase [Bacteroides cellulosilyticus]|cazy|CBM67	20.675	75	711	457	29	184	866	90	721	5.04e-07	55.1
+GH78_query_2	BAB62315.1 rhamnosidase B [Bacillus sp. GL1]|cazy|CBM67|GH78_characterized_structure	29.448	37	163	91	7	134	287	26	173	9.47e-06	50.8
+GH78_query_2	BAB62315.1 rhamnosidase B [Bacillus sp. GL1]|cazy|CBM67|GH78_characterized_structure	22.905	37	179	130	3	307	483	419	591	0.006	41.6
+GH78_query_2	CCV65123.1 Alpha-L-rhamnosidase protein [Acholeplasma brassicae]|cazy|GH78	23.845	57	541	333	26	134	650	22	507	1.49e-05	50.1
+GH78_query_2	AYD47493.1 alpha-rhamnosidase [Arachidicoccus soli]|cazy|CBM67	21.429	37	392	233	15	133	471	52	421	2.98e-05	49.3
+GH78_query_2	BCG53368.1 hypothetical protein AI2BBH_04140 [Alistipes indistinctus]|cazy|CBM67	19.966	59	591	372	20	133	665	90	637	3.57e-05	48.9
+GH78_query_2	BCS25990.1 hypothetical protein APUU_50701A [Aspergillus puulaauensis]|cazy|GH78	26.702	20	191	119	7	124	304	19	198	9.36e-05	47.8
+GH78_query_2	BCS19496.1 hypothetical protein APUU_12324S [Aspergillus puulaauensis]|cazy|GH78	22.680	28	291	184	9	616	871	548	832	9.53e-05	47.8
+GH78_query_2	EAA59988.1 hypothetical protein AN3780.2 [Aspergillus nidulans FGSC A4]|cazy|GH78	21.531	37	418	218	16	123	460	21	408	1.13e-04	47.4
+GH78_query_2	QNI34756.1 beta galactosidase jelly roll domain-containing protein [Acidobacterium sp. 4Y35]|cazy|GH78	21.957	39	419	209	19	131	480	67	436	4.33e-04	45.4
+GH78_query_2	QRV17394.1 hypothetical protein JMJ58_21335 (plasmid) [Haloterrigena salifodinae]|cazy|GH78	28.037	11	107	71	2	751	851	9	115	6.79e-04	41.6
+GH78_query_2	QKG20452.1 hypothetical protein ACTIVE_2090 [Actinomadura verrucosospora]|cazy|GH78	25.373	15	134	84	2	733	866	685	802	8.98e-04	44.3
+GH78_query_2	QKG20451.1 alpha-L-rhamnosidase [Actinomadura verrucosospora]|cazy|GH78	26.772	14	127	79	3	728	854	576	688	0.001	44.3
+GH78_query_2	AXC13398.1 Alfa-L-rhamnosidase [Acidisarcina polymorpha]|cazy|GH78	31.148	13	122	72	6	741	860	406	517	0.001	43.9
+GH78_query_2	CAK97320.1 unnamed protein product [Aspergillus niger]|cazy|GH78	27.731	13	119	83	3	756	873	54	170	0.001	43.5
+GH78_query_2	QKW37241.1 hypothetical protein HUT06_27195 [Actinomadura sp. NAK00032]|cazy|GH78	28.829	12	111	76	1	756	866	698	805	0.002	43.5
+GH78_query_2	QKW37240.1 hypothetical protein HUT06_27190 [Actinomadura sp. NAK00032]|cazy|GH78	25.439	18	114	82	2	741	854	578	688	0.003	42.7
+GH78_query_2	QKW37240.1 hypothetical protein HUT06_27190 [Actinomadura sp. NAK00032]|cazy|GH78	35.849	18	53	33	1	298	349	81	133	8.3	31.6
+GH78_query_2	CAK49119.1 unnamed protein product [Aspergillus niger]|cazy|GH78	21.676	31	346	185	14	124	401	21	348	0.004	42.4
+GH78_query_2	QDU25432.1 GDSL-like Lipase/Acylhydrolase [Anatilimnocola aggregata]|cazy|CBM67	30.147	15	136	70	5	117	251	28	139	0.005	42.0
+GH78_query_2	ACO32535.1 conserved hypothetical protein [Acidobacterium capsulatum ATCC 51196]|cazy|GH78	20.345	81	811	484	33	131	866	90	813	0.006	41.6
+GH78_query_2	ATZ56607.1 hypothetical protein BCIN_13g04440 [Botrytis cinerea B05.10]|cazy|GH78	25.758	14	132	86	4	750	874	726	852	0.007	41.6
+GH78_query_2	SMD44424.1 Glycogen debranching enzyme [Aquiflexum balticum DSM 16537]|cazy|CBM67	30.986	24	71	45	2	132	202	52	118	0.009	41.2
+GH78_query_2	SMD44424.1 Glycogen debranching enzyme [Aquiflexum balticum DSM 16537]|cazy|CBM67	26.389	24	144	105	1	329	472	442	584	0.012	40.8
+GH78_query_2	EAA62978.1 hypothetical protein AN2631.2 [Aspergillus nidulans FGSC A4]|cazy|GH78	26.087	13	115	83	2	756	869	414	527	0.010	40.8
+GH78_query_2	QKG20441.1 alpha-L-rhamnosidase [Actinomadura verrucosospora]|cazy|GH78	21.639	60	610	362	25	317	862	78	635	0.014	40.4
+GH78_query_2	ALJ46942.1 Beta-glucuronidase [Bacteroides ovatus]|cazy|CBM57|GH2_characterized	32.051	8	78	41	3	134	208	81	149	0.018	40.0
+GH78_query_2	ATZ52007.1 hypothetical protein BCIN_07g05400 [Botrytis cinerea B05.10]|cazy|GH78	27.711	17	166	102	8	132	287	29	186	0.020	40.0
+GH78_query_2	BBE16528.1 alfa-L-rhamnosidase [Aquipluma nitroreducens]|cazy|CBM67	20.772	52	544	310	26	134	608	49	540	0.021	40.0
+GH78_query_2	QRD88450.1 Six-hairpin glycosidase-like protein [Aspergillus flavus]|cazy|GH78	28.736	10	87	61	1	756	841	326	412	0.025	39.3
+GH78_query_2	QMW25564.1 hypothetical protein G4B84_000809 [Aspergillus flavus NRRL3357]|cazy|GH78	28.736	10	87	61	1	756	841	326	412	0.025	39.3
+GH78_query_2	QMW37649.1 hypothetical protein G4B11_000885 [Aspergillus flavus]|cazy|GH78	28.736	10	87	61	1	756	841	326	412	0.025	39.3
+GH78_query_2	VEU79843.1 Bacterial alpha-L-rhamnosidase [Acholeplasma axanthum]|cazy|CBM67|GH78	19.026	45	431	269	14	423	833	378	748	0.034	39.3
+GH78_query_2	VTS82322.1 beta-galactosidase [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.036	39.3
+GH78_query_2	ABV10046.1 beta-galactosidase [Streptococcus gordonii str. Challis substr. CH1]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.036	39.3
+GH78_query_2	QGS43815.1 DUF4982 domain-containing protein [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.036	39.3
+GH78_query_2	VEE22138.1 beta-galactosidase [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.036	39.3
+GH78_query_2	AWV98251.1 hypothetical protein DJ013_08750 [Arcticibacterium luteifluviistationis]|cazy|CBM67	21.612	57	583	342	27	132	646	56	591	0.040	38.9
+GH78_query_2	CAE7192987.1 Glycoside hydrolase family 94 protein [Pyrenophora teres f. teres]|cazy|GH94	28.889	10	90	58	2	556	645	435	518	0.060	38.5
+GH78_query_2	VTT25905.1 beta-galactosidase [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.075	38.1
+GH78_query_2	ATF65085.1 beta-galactosidase [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.077	38.1
+GH78_query_2	ANI89650.1 alpha-rhamnosidase [Arachidicoccus sp. BS20]|cazy|CBM67	19.487	37	390	242	16	133	471	54	422	0.080	38.1
+GH78_query_2	ARC47169.1 DUF4982 domain-containing protein [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.083	38.1
+GH78_query_2	AAF97242.1 beta-galactosidase precursor [Streptococcus pneumoniae]|cazy|CBM71_characterized	27.128	19	188	101	9	133	300	213	384	0.087	38.1
+GH78_query_2	AAK74795.1 beta-galactosidase [Streptococcus pneumoniae TIGR4]|cazy|GH2|CBM71_characterized_structure	27.128	19	188	101	9	133	300	213	384	0.087	38.1
+GH78_query_2	SQG04470.1 beta-galactosidase [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.11	37.7
+GH78_query_2	SQF28303.1 beta-galactosidase [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.11	37.7
+GH78_query_2	BBE16161.1 alfa-L-rhamnosidase [Aquipluma nitroreducens]|cazy|CBM67	20.545	40	404	264	11	123	482	46	436	0.11	37.7
+GH78_query_2	ALD72077.1 beta-galactosidase [Streptococcus gordonii]|cazy|CBM71	27.027	15	148	81	7	133	269	213	344	0.11	37.7
+GH78_query_2	VTS70087.1 beta-galactosidase [Streptococcus australis]|cazy|CBM71	26.596	19	188	102	9	133	300	213	384	0.12	37.7
+GH78_query_2	VEM00347.1 alpha-L-rhamnosidase-like protein (plasmid) [Alteromonas sp. 76-1]|cazy|CBM67	21.392	37	388	216	17	134	472	47	394	0.13	37.4
+GH78_query_2	QSZ47658.1 hypothetical protein AYX22_03975 [Arthrobacter sp. D5-1]|cazy|CBM67	23.841	24	151	97	5	329	471	304	444	0.15	37.4
+GH78_query_2	QSZ47658.1 hypothetical protein AYX22_03975 [Arthrobacter sp. D5-1]|cazy|CBM67	30.986	24	71	45	1	134	204	57	123	1.3	34.3
+GH78_query_2	AMD86543.1 hypothetical protein AXF14_01645 [Actinomyces radicidentis]|cazy|GH78	24.727	29	275	178	15	156	418	253	510	0.16	37.0
+GH78_query_2	AMY09341.1 Bacterial alpha-L-rhamnosidase [Luteitalea pratensis]|cazy|CBM67|GH78	20.455	33	352	219	11	132	432	53	394	0.18	37.0
+GH78_query_2	BCR89915.1 hypothetical protein ACHE_51113A [Aspergillus chevalieri]|cazy|GH78	26.752	16	157	98	5	708	854	668	817	0.18	37.0
+GH78_query_2	QMW34696.1 hypothetical protein G4B84_010162 [Aspergillus flavus NRRL3357]|cazy|GH78	23.577	12	123	84	4	328	440	64	186	0.19	37.0
+GH78_query_2	AYF95976.1 DUF4982 domain-containing protein [Streptococcus gwangjuense]|cazy|CBM71	26.596	19	188	102	10	133	300	213	384	0.24	36.6
+GH78_query_2	QGX63101.1 family 78 glycoside hydrolase catalytic domain [Alteromonas mediterranea]|cazy|CBM67	22.165	37	388	213	19	134	472	47	394	0.28	36.2
+GH78_query_2	CBX91997.1 hypothetical protein LEMA_P047030.1 [Leptosphaeria maculans JN3]|cazy|GH94	30.000	10	90	57	2	556	645	2	85	0.28	35.4
+GH78_query_2	QRD93478.1 alpha-L-rhamnosidase C [Aspergillus flavus]|cazy|GH78	23.577	12	123	84	4	328	440	260	382	0.31	36.2
+GH78_query_2	BCR85243.1 hypothetical protein ACHE_20701S [Aspergillus chevalieri]|cazy|GH78	25.547	27	137	87	5	319	440	44	180	0.32	36.2
+GH78_query_2	BCR85243.1 hypothetical protein ACHE_20701S [Aspergillus chevalieri]|cazy|GH78	26.230	27	122	84	5	756	875	676	793	2.1	33.5
+GH78_query_2	AXC13642.1 Beta-galactosidase [Acidisarcina polymorpha]|cazy|GH2	27.536	13	138	72	6	133	254	137	262	0.32	36.2
+GH78_query_2	BAA04044.1 clotting factor G alpha subunit precursor [Tachypleus tridentatus]|cazy|CBM6	38.889	6	54	32	1	138	191	233	285	0.56	35.0
+GH78_query_2	ABJ53768.1 beta-galactosidase precursor, putative [Streptococcus pneumoniae D39]|cazy|CBM71_characterized	26.596	19	188	102	9	133	300	213	384	0.57	35.4
+GH78_query_2	AAK99369.1 beta-galactosidase precursor [Streptococcus pneumoniae R6]|cazy|CBM71_characterized_structure	26.596	19	188	102	9	133	300	213	384	0.57	35.4
+GH78_query_2	QRD85156.1 Six-hairpin glycosidase-like protein [Aspergillus flavus]|cazy|GH78	29.907	11	107	62	5	751	848	701	803	0.58	35.0
+GH78_query_2	QMW28911.1 hypothetical protein G4B84_004246 [Aspergillus flavus NRRL3357]|cazy|GH78	29.907	11	107	62	5	751	848	701	803	0.58	35.0
+GH78_query_2	QMW40986.1 hypothetical protein G4B11_004310 [Aspergillus flavus]|cazy|GH78	29.907	11	107	62	5	751	848	701	803	0.58	35.0
+GH78_query_2	QDU25782.1 Cytochrome c [Anatilimnocola aggregata]|cazy|CBM67	23.837	18	172	73	6	127	287	33	157	0.64	35.0
+GH78_query_2	QMW30547.1 hypothetical protein G4B84_005928 [Aspergillus flavus NRRL3357]|cazy|GH78	26.471	15	136	84	5	123	254	27	150	0.72	35.0
+GH78_query_2	QRD89417.1 rhamnosidase B [Aspergillus flavus]|cazy|GH78	26.471	15	136	84	5	123	254	27	150	0.72	35.0
+GH78_query_2	QMW42605.1 hypothetical protein G4B11_005975 [Aspergillus flavus]|cazy|GH78	26.471	15	136	84	5	123	254	27	150	0.72	35.0
+GH78_query_2	BAE60295.1 unnamed protein product [Aspergillus oryzae RIB40]|cazy|GH78	26.471	15	136	84	5	123	254	27	150	0.72	35.0
+GH78_query_2	QIP49905.1 DUF4982 domain-containing protein [Streptococcus cristatus ATCC 51100]|cazy|CBM71	27.027	15	148	81	7	133	269	204	335	0.75	35.0
+GH78_query_2	QGS41971.1 DUF4982 domain-containing protein [Streptococcus mitis]|cazy|CBM71	26.351	15	148	82	7	133	269	265	396	0.75	35.0
+GH78_query_2	QMW46762.1 hypothetical protein G4B11_010217 [Aspergillus flavus]|cazy|GH78	22.764	12	123	85	4	328	440	64	186	0.83	34.7
+GH78_query_2	AYF93754.1 DUF4982 domain-containing protein [Streptococcus koreensis]|cazy|CBM71	28.472	15	144	74	9	133	264	186	312	0.83	35.0
+GH78_query_2	ACO31354.1 alfa-L-rhamnosidase homolog [Acidobacterium capsulatum ATCC 51196]|cazy|GH78	21.516	39	409	230	16	131	483	72	445	0.93	34.7
+GH78_query_2	ANZ93894.1 alpha-L-rhamnosidase [Aspergillus tubingensis]|cazy|GH78_characterized	24.898	26	245	160	8	643	873	640	874	1.1	34.3
+GH78_query_2	SQG31784.1 beta-galactosidase [Streptococcus cristatus ATCC 51100]|cazy|CBM71	27.027	15	148	81	7	133	269	204	335	1.1	34.3
+GH78_query_2	ABY70543.1 hypothetical protein APJL_1995 [Actinobacillus pleuropneumoniae serovar 3 str. JL03]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	ASU15823.1 Glucan endo-1,3-beta-glucosidase [Actinobacillus pleuropneumoniae]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	ACE62688.1 hypothetical protein APP7_2036 [Actinobacillus pleuropneumoniae serovar 7 str. AP76]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	VEJ17982.1 Glucan endo-1,3-beta-glucosidase precursor [Actinobacillus pleuropneumoniae]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	CUU53394.1 Glucan endo-1,3-beta-glucosidase [Actinobacillus pleuropneumoniae serovar 8]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	QSZ40048.1 hypothetical protein CYK57_02242 [Actinobacillus pleuropneumoniae]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	ABN75026.1 hypothetical protein APL_1948 [Actinobacillus pleuropneumoniae serovar 5b str. L20]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	SQF65811.1 Glucan endo-1,3-beta-glucosidase precursor [Actinobacillus pleuropneumoniae]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	AXA22426.1 1,4-beta-xylanase [Actinobacillus pleuropneumoniae]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	AWG96356.1 1,4-beta-xylanase [Actinobacillus pleuropneumoniae serovar 1 str. 4074]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	1.1	33.1
+GH78_query_2	BCS02687.1 hypothetical protein AKAW2_60951S [Aspergillus luchuensis]|cazy|GH78	26.230	26	244	158	9	622	854	457	689	1.2	34.3
+GH78_query_2	BCS14345.1 hypothetical protein ALUC_60901S [Aspergillus luchuensis]|cazy|GH78	26.230	26	244	158	9	622	854	598	830	1.6	33.9
+GH78_query_2	VBB80987.1 Putative Glycoside Hydrolase Family 94 [Podospora comata]|cazy|GH94	29.885	10	87	53	3	557	643	442	520	1.7	33.9
+GH78_query_2	CAP62145.1 unnamed protein product [Podospora anserina S mat+]|cazy|GH94	29.885	10	87	53	3	557	643	442	520	1.7	33.5
+GH78_query_2	KGB79550.2 alpha-L-rhamnosidase [Cryptococcus gattii VGII R265]|cazy|CBM67	30.380	9	79	51	2	126	204	30	104	1.8	33.5
+GH78_query_2	QGZ97577.1 DUF4982 domain-containing protein [Mycoplasma sp. NEAQ87857]|cazy|CBM71	31.111	9	90	43	6	133	212	429	509	2.1	33.5
+GH78_query_2	VEB27546.1 Glucan endo-1,3-beta-glucosidase precursor [Actinobacillus lignieresii]|cazy|CBM13	25.510	10	98	66	2	294	387	28	122	2.3	32.0
+GH78_query_2	BAE56658.1 unnamed protein product [Aspergillus oryzae RIB40]|cazy|GH78	24.779	12	113	56	3	328	440	64	147	2.4	33.1
+GH78_query_2	BCG53425.1 hypothetical protein AI2BBH_04710 [Alistipes indistinctus]|cazy|CBM67	23.729	12	118	82	3	745	856	704	819	2.5	33.1
+GH78_query_2	AAA23216.1 beta-D-galactosidase (cbgA) [Clostridium acetobutylicum]|cazy|GH2_characterized	22.222	14	144	84	7	76	204	59	189	2.6	33.1
+GH78_query_2	QCJ44357.1 DUF4982 domain-containing protein [Bacillus sp. S3]|cazy|CBM71	31.000	10	100	47	6	133	222	110	197	2.8	33.1
+GH78_query_2	ZP_07366943.1 alpha-L-rhamnosidase [Pediococcus acidilactici DSM 20284]|cazy|GH78_characterized	21.860	22	215	150	8	292	493	42	251	2.9	32.7
+GH78_query_2	BCS04174.1 hypothetical protein AKAW2_71052A [Aspergillus luchuensis]|cazy|GH78	22.727	18	176	115	6	124	287	21	187	3.9	32.3
+GH78_query_2	BCS15768.1 hypothetical protein ALUC_71001A [Aspergillus luchuensis]|cazy|GH78	22.727	18	176	115	6	124	287	21	187	3.9	32.3
+GH78_query_2	AAO79286.1 beta-galactosidase [Bacteroides thetaiotaomicron VPI-5482]|cazy|GH2_characterized	26.506	9	83	43	3	132	208	81	151	4.4	32.3
+GH78_query_2	QDU25222.1 Cytochrome c [Anatilimnocola aggregata]|cazy|CBM67	34.247	8	73	38	2	132	204	66	128	4.5	32.3
+GH78_query_2	QDU55910.1 Bacterial alpha-L-rhamnosidase [Aeoliella mucimassa]|cazy|CBM67|GH78	22.821	39	390	213	18	134	486	79	417	5.0	32.3
+GH78_query_2	EAA57680.1 hypothetical protein AN6925.2 [Aspergillus nidulans FGSC A4]|cazy|GH78|GH79	30.488	9	82	49	3	125	204	520	595	5.4	32.3
+GH78_query_2	QNF34025.1 dehydrogenase [Adhaeribacter swui]|cazy|CBM38	27.451	10	102	62	5	218	312	416	512	5.5	32.0
+GH78_query_2	AXT53162.1 hypothetical protein D1818_20890 [Aquimarina sp. BL5]|cazy|GH99	35.556	5	45	26	2	179	220	299	343	5.7	32.0
+GH78_query_2	AGK71710.1 beta-galactosidase [Streptococcus cristatus AS 1.3089]|cazy|CBM71	26.351	15	148	82	7	133	269	199	330	6.1	32.0
+GH78_query_2	SQI48599.1 beta-galactosidase [Streptococcus cristatus]|cazy|CBM71	26.351	15	148	82	7	133	269	199	330	6.1	32.0
+GH78_query_2	VDB92919.1 Bgt-4859 [Blumeria graminis f. sp. tritici]|cazy|GH78	25.641	9	78	56	2	789	866	573	648	6.8	31.6
+GH78_query_2	CAK46278.1 unnamed protein product [Aspergillus niger]|cazy|GH78	25.620	13	121	81	2	741	856	681	797	8.7	31.6
+GH78_query_2	QGA24404.1 Bacterial alpha-L-rhamnosidase [Alistipes sp. dk3624]|cazy|CBM67	22.561	17	164	105	7	133	287	61	211	9.3	31.2
+GH78_query_2	QPL50972.1 glycoside hydrolase family 32 protein [Alteromonas sp. B31-7]|cazy|CBM38	21.898	15	137	78	5	550	686	395	502	9.6	31.2

@@ -1,0 +1,396 @@
+GH116_query_1	NP_065995.1 non-lysosomal glucosylceramidase isoform 1 [Homo sapiens]|cazy|GH116_characterized	100.000	100	927	0	0	1	927	1	927	0.0	1934
+GH116_query_1	AFE66625.1 non-lysosomal glucosylceramidase [Macaca mulatta]|cazy|GH116	97.303	100	927	25	0	1	927	1	927	0.0	1880
+GH116_query_1	CAM17042.1 glucosidase beta 2 [Mus musculus]|cazy|GH116_characterized	87.486	99	919	114	1	9	927	1	918	0.0	1618
+GH116_query_1	EDL02461.1 glucosidase beta 2, isoform CRA_a [Mus musculus]|cazy|GH116	87.378	99	919	115	1	9	927	1	918	0.0	1615
+GH116_query_1	AFO96150.1 non-lysosomal glucosylceramidase-like protein [Callorhinchus milii]|cazy|GH116	67.347	89	833	268	2	68	896	11	843	0.0	1189
+GH116_query_1	AHH37418.1 Non-lysosomal glucosylceramidase [Ictalurus punctatus]|cazy|GH116	66.390	90	842	275	2	58	893	2	841	0.0	1188
+GH116_query_1	AER98956.1 glucosidase, beta 2, partial [Mustela putorius furo]|cazy|GH116	90.346	59	549	49	1	379	923	1	549	0.0	1007
+GH116_query_1	XP_002127036.1 non-lysosomal glucosylceramidase isoform X1 [Ciona intestinalis]|cazy|GH116	54.255	90	846	362	12	63	892	22	858	0.0	935
+GH116_query_1	EDL02463.1 glucosidase beta 2, isoform CRA_c, partial [Mus musculus]|cazy|GH116	89.738	49	458	47	0	470	927	10	467	0.0	837
+GH116_query_1	ADY40283.1 Non-lysosomal glucosylceramidase [Ascaris suum]|cazy|GH116	45.161	91	868	425	20	73	911	3	848	0.0	656
+GH116_query_1	VDD36302.1 unnamed protein product [Brassica oleracea]|cazy|GH116	40.930	87	882	428	18	82	891	37	897	0.0	614
+GH116_query_1	CAB4083311.1 unnamed protein product [Lactuca saligna]|cazy|GH116	41.657	85	845	421	15	105	891	133	963	0.0	613
+GH116_query_1	VDC96735.1 unnamed protein product [Brassica rapa]|cazy|GH116	40.976	87	881	427	18	82	890	37	896	0.0	613
+GH116_query_1	AAQ65174.1 At5g49900 [Arabidopsis thaliana]|cazy|GH116	39.653	86	865	437	17	105	897	48	899	0.0	613
+GH116_query_1	CAE6231614.1 unnamed protein product [Arabidopsis arenosa]|cazy|GH116	39.265	86	871	444	17	99	897	42	899	0.0	611
+GH116_query_1	EDL02462.1 glucosidase beta 2, isoform CRA_b, partial [Mus musculus]|cazy|GH116	93.182	33	308	21	0	528	835	19	326	0.0	608
+GH116_query_1	CAD21661.1 Non-lysosomal glucosylceramidase [Caenorhabditis elegans]|cazy|GH116	40.264	87	832	465	16	85	893	73	895	0.0	606
+GH116_query_1	CAE64133.1 Hypothetical protein CBG08749 [Caenorhabditis briggsae]|cazy|GH116	40.073	87	826	467	15	85	893	29	843	0.0	605
+GH116_query_1	CAD7223927.1 unnamed protein product [Cyprideis torosa]|cazy|GH116	38.992	88	913	424	20	80	891	339	1219	0.0	605
+GH116_query_1	CAD1842169.1 unnamed protein product [Ananas comosus var. bracteatus]|cazy|GH116	38.997	87	877	454	16	103	910	51	915	0.0	605
+GH116_query_1	VDD51580.1 unnamed protein product [Brassica oleracea]|cazy|GH116	41.489	85	846	423	16	106	890	56	890	0.0	601
+GH116_query_1	BAE99039.1 hypothetical protein [Arabidopsis thaliana]|cazy|GH116	41.488	87	887	421	20	82	891	36	901	0.0	600
+GH116_query_1	CAE5969657.1 unnamed protein product [Arabidopsis arenosa]|cazy|GH116	41.094	85	859	420	17	106	891	56	901	0.0	595
+GH116_query_1	VDC80749.1 unnamed protein product [Brassica rapa]|cazy|GH116	39.603	84	856	429	17	115	897	57	897	0.0	594
+GH116_query_1	VDC61198.1 unnamed protein product [Brassica rapa]|cazy|GH116	37.716	91	928	463	21	63	910	9	901	0.0	593
+GH116_query_1	VDC76773.1 unnamed protein product [Brassica rapa]|cazy|GH116	40.528	85	871	421	16	106	890	56	915	0.0	593
+GH116_query_1	VDC91052.1 unnamed protein product [Brassica oleracea]|cazy|GH116	39.298	84	855	433	15	115	897	58	898	0.0	591
+GH116_query_1	VDD60926.1 unnamed protein product [Brassica oleracea]|cazy|GH116	37.596	90	915	463	20	76	910	15	901	0.0	588
+GH116_query_1	QHO32474.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	39.583	86	864	443	14	105	904	51	899	0.0	588
+GH116_query_1	QHN97973.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	39.583	86	864	443	14	105	904	51	899	0.0	587
+GH116_query_1	CAE6130408.1 unnamed protein product [Arabidopsis arenosa]|cazy|GH116	40.168	85	834	440	16	106	894	42	861	0.0	587
+GH116_query_1	CAE5959156.1 unnamed protein product [Arabidopsis arenosa]|cazy|GH116	37.486	89	907	460	21	62	889	5	883	0.0	586
+GH116_query_1	AAO41192.2 uncharacterized protein Dmel_CG33090, isoform B [Drosophila melanogaster]|cazy|GH116	38.696	88	920	439	20	81	897	50	947	0.0	584
+GH116_query_1	CAB4072841.1 unnamed protein product [Lactuca saligna]|cazy|GH116	38.660	86	851	450	16	100	892	42	878	0.0	582
+GH116_query_1	VDC90156.1 unnamed protein product [Brassica rapa]|cazy|GH116	40.145	85	827	439	17	106	890	38	850	0.0	582
+GH116_query_1	CAB4072022.1 unnamed protein product [Lactuca saligna]|cazy|GH116	40.514	80	817	397	16	151	892	121	923	0.0	582
+GH116_query_1	CAB4106120.1 unnamed protein product [Lactuca saligna]|cazy|GH116	38.558	86	874	449	17	93	892	71	930	0.0	580
+GH116_query_1	NP_174631.2 Beta-glucosidase, GBA2 type family protein [Arabidopsis thaliana]|cazy|GH116	37.225	89	908	461	19	62	889	5	883	0.0	565
+GH116_query_1	EEC81952.1 hypothetical protein OsI_25831 [Oryza sativa Indica Group]|cazy|GH116	44.180	73	713	342	11	214	891	108	799	0.0	559
+GH116_query_1	NP_192744.3 catalytic [Arabidopsis thaliana]|cazy|GH116	39.586	84	821	429	15	119	894	53	851	0.0	557
+GH116_query_1	CAD1842143.1 unnamed protein product [Ananas comosus var. bracteatus]|cazy|GH116	36.914	87	875	465	18	103	910	51	905	9.32e-180	545
+GH116_query_1	AAP54244.2 expressed protein [Oryza sativa Japonica Group]|cazy|GH116	38.068	85	880	437	21	105	889	55	921	2.58e-179	545
+GH116_query_1	EEC67156.1 hypothetical protein OsI_34005 [Oryza sativa Indica Group]|cazy|GH116	37.955	85	880	438	21	105	889	55	921	1.69e-178	543
+GH116_query_1	CAB1345384.1 unnamed protein product [Coregonus sp. 'balchen']|cazy|GH116	48.780	65	615	208	8	288	890	1	520	1.43e-177	545
+GH116_query_1	CAB1345384.1 unnamed protein product [Coregonus sp. 'balchen']|cazy|GH116	62.441	65	426	116	3	470	890	630	1016	1.79e-174	537
+GH116_query_1	AEF18218.1 Glucosylceramidase [Thermoanaerobacterium xylanolyticum LX-11]|cazy|GH116_characterized_structure	36.789	84	791	456	15	115	892	46	805	2.62e-173	525
+GH116_query_1	CAE65467.1 Hypothetical protein CBG10433 [Caenorhabditis briggsae]|cazy|GH116	38.678	85	817	444	22	108	897	35	821	3.68e-172	522
+GH116_query_1	BAF22739.1 Os08g0111200 [Oryza sativa Japonica Group]|cazy|GH116	38.733	81	821	406	17	151	899	85	880	2.58e-170	521
+GH116_query_1	EAL61202.1 hypothetical protein DDB_G0292446 [Dictyostelium discoideum AX4]|cazy|GH116	38.843	86	726	387	11	214	895	546	1258	3.98e-169	528
+GH116_query_1	EAL61202.1 hypothetical protein DDB_G0292446 [Dictyostelium discoideum AX4]|cazy|GH116	36.667	86	120	69	4	77	195	364	477	9.36e-14	77.0
+GH116_query_1	EAY78902.1 hypothetical protein OsI_032861 [Oryza sativa (indica cultivar-group)]|cazy|GH116	36.830	85	877	432	20	105	889	55	901	1.88e-168	516
+GH116_query_1	CAD7281356.1 unnamed protein product [Notodromas monacha]|cazy|GH116	37.853	88	885	391	25	80	898	2	793	3.28e-168	511
+GH116_query_1	QNI34795.1 glucosylceramidase [Acidobacterium sp. 4Y35]|cazy|GH116	37.356	81	779	440	14	151	897	69	831	4.03e-168	512
+GH116_query_1	CAD1843764.1 unnamed protein product [Ananas comosus var. bracteatus]|cazy|GH116	39.646	76	792	383	17	185	891	4	785	6.52e-167	509
+GH116_query_1	EAZ03698.1 hypothetical protein OsI_024930 [Oryza sativa (indica cultivar-group)]|cazy|GH116	41.268	73	710	321	11	214	891	108	753	2.13e-164	501
+GH116_query_1	EAY80478.1 hypothetical protein OsI_034437 [Oryza sativa (indica cultivar-group)]|cazy|GH116	36.427	81	862	416	20	151	899	43	885	8.66e-158	488
+GH116_query_1	ABF40689.1 protein of unknown function DUF608 [Candidatus Koribacter versatilis Ellin345]|cazy|GH116	36.089	80	762	446	13	151	888	62	806	3.58e-156	480
+GH116_query_1	AAB54243.1 Hypothetical protein R08F11.1 [Caenorhabditis elegans]|cazy|GH116	38.569	74	713	386	21	153	835	112	802	2.10e-144	452
+GH116_query_1	ADY41918.1 Non-lysosomal glucosylceramidase [Ascaris suum]|cazy|GH116	43.643	56	527	282	6	382	897	11	533	2.22e-137	422
+GH116_query_1	BAZ59111.1 glucosylceramidase [Calothrix sp. NIES-4105]|cazy|GH116	35.145	80	791	434	19	150	892	39	798	5.11e-137	430
+GH116_query_1	BAZ12965.1 glucosylceramidase [Calothrix sp. NIES-4071]|cazy|GH116	35.145	80	791	434	19	150	892	39	798	5.11e-137	430
+GH116_query_1	CAD7086391.1 unnamed protein product [Hermetia illucens]|cazy|GH116	42.308	89	572	311	11	70	637	6	562	6.47e-137	432
+GH116_query_1	CAD7086391.1 unnamed protein product [Hermetia illucens]|cazy|GH116	45.896	89	268	135	3	633	894	619	882	3.15e-72	257
+GH116_query_1	CAD7283846.1 unnamed protein product [Notodromas monacha]|cazy|GH116	41.286	60	591	285	15	341	898	2	563	1.97e-136	421
+GH116_query_1	ACB50959.1 unknown [Crocosphaera subtropica ATCC 51142]|cazy|GH116	34.056	80	784	442	16	150	886	55	810	1.96e-135	426
+GH116_query_1	CAD7086392.1 unnamed protein product [Hermetia illucens]|cazy|GH116	41.552	89	580	312	10	70	637	6	570	2.10e-135	428
+GH116_query_1	CAD7086392.1 unnamed protein product [Hermetia illucens]|cazy|GH116	45.896	89	268	135	3	633	894	627	890	3.91e-72	257
+GH116_query_1	AFY32103.1 Glucosylceramidase [Calothrix sp. PCC 7507]|cazy|GH116	35.145	80	791	429	21	150	890	40	796	7.29e-134	421
+GH116_query_1	BAZ06285.1 hypothetical protein NIES3974_29430 [Calothrix sp. NIES-3974]|cazy|GH116	34.543	80	799	429	19	151	893	42	802	4.02e-133	420
+GH116_query_1	AFY90385.1 Glucosylceramidase [Chroococcidiopsis thermalis PCC 7203]|cazy|GH116	35.894	80	794	423	18	150	886	41	805	2.43e-132	418
+GH116_query_1	CAF3001293.1 GBA2 [Lepeophtheirus salmonis]|cazy|GH116	34.641	79	739	379	18	117	845	46	690	6.19e-132	413
+GH116_query_1	AFY96705.1 putative bile acid beta-glucosidase [Chamaesiphon minutus PCC 6605]|cazy|GH116	32.931	83	829	466	20	125	890	15	816	1.05e-130	414
+GH116_query_1	VDD24676.1 unnamed protein product, partial [Brassica oleracea]|cazy|GH116	40.635	60	598	298	16	312	866	1	584	3.65e-130	405
+GH116_query_1	BAY86896.1 hypothetical protein NIES267_64070 [Calothrix parasitica NIES-267]|cazy|GH116	32.449	80	792	455	18	150	891	40	801	4.28e-130	412
+GH116_query_1	EAT47379.1 AAEL001478-PA, partial [Aedes aegypti]|cazy|GH116	42.096	88	582	290	9	81	633	5	568	5.30e-130	414
+GH116_query_1	EAT47379.1 AAEL001478-PA, partial [Aedes aegypti]|cazy|GH116	47.970	88	271	131	3	633	897	631	897	3.27e-77	271
+GH116_query_1	AFZ56515.1 Glucosylceramidase [Anabaena cylindrica PCC 7122]|cazy|GH116	33.967	80	789	443	19	150	888	40	800	1.36e-129	410
+GH116_query_1	AFZ14808.1 Glucosylceramidase [Crinalium epipsammum PCC 9333]|cazy|GH116	34.168	80	799	441	16	150	891	41	811	3.26e-129	410
+GH116_query_1	BAY11199.1 hypothetical protein NIES2098_43790 [Calothrix sp. NIES-2098]|cazy|GH116	33.962	80	795	445	18	150	892	40	806	6.87e-129	409
+GH116_query_1	BAZ44477.1 hypothetical protein NIES4102_14870 [Chondrocystis sp. NIES-4102]|cazy|GH116	33.418	80	787	442	17	150	886	42	796	1.10e-128	408
+GH116_query_1	QQW31744.1 bile acid beta-glucosidase [Arthrospira sp. PCC 9108]|cazy|GH116	35.578	80	787	436	17	149	892	40	798	1.23e-128	408
+GH116_query_1	BAI91082.1 hypothetical protein NIES39_J00300 [Arthrospira platensis NIES-39]|cazy|GH116	35.578	80	787	436	17	149	892	40	798	1.23e-128	408
+GH116_query_1	BAY64129.1 hypothetical protein NIES22_42230 [Calothrix brevissima NIES-22]|cazy|GH116	34.008	80	791	442	18	150	888	40	802	1.24e-128	408
+GH116_query_1	ADB95919.1 predicted bile acid beta-glucosidase [Candidatus Atelocyanobacterium thalassa isolate ALOHA]|cazy|GH116	32.491	80	791	457	17	150	892	41	802	1.94e-128	407
+GH116_query_1	ALC39944.1 CG15286 [Drosophila busckii]|cazy|GH116	43.510	84	547	271	11	116	637	556	1089	3.60e-128	421
+GH116_query_1	ALC39944.1 CG15286 [Drosophila busckii]|cazy|GH116	44.369	84	293	148	4	613	894	1124	1412	9.14e-70	254
+GH116_query_1	ALB42504.1 bile acid beta-glucosidase [Anabaena sp. WA102]|cazy|GH116	33.960	80	798	433	24	150	890	38	798	8.14e-127	403
+GH116_query_1	BAY16333.1 hypothetical protein NIES21_21590 [Anabaenopsis circularis NIES-21]|cazy|GH116	33.038	80	790	454	19	150	892	40	801	1.56e-126	402
+GH116_query_1	BAZ37342.1 hypothetical protein NIES4101_32630 [Calothrix sp. NIES-4101]|cazy|GH116	33.251	80	809	445	19	150	890	40	821	4.57e-126	402
+GH116_query_1	QOV21481.1 bile acid beta-glucosidase [Anabaenopsis elenkinii CCIBt3563]|cazy|GH116	33.750	81	800	444	20	150	896	40	806	6.14e-126	401
+GH116_query_1	BAY26290.1 hypothetical protein NIES2100_61040 [Calothrix sp. NIES-2100]|cazy|GH116	33.586	80	792	444	20	150	888	40	802	8.61e-126	400
+GH116_query_1	QSV67974.1 bile acid beta-glucosidase [Aphanizomenon flos-aquae DEX188]|cazy|GH116	33.668	80	796	442	21	150	891	38	801	1.42e-125	400
+GH116_query_1	AFZ53915.1 Glucosylceramidase [Cyanobacterium aponinum PCC 10605]|cazy|GH116	33.965	80	792	446	14	150	893	40	802	1.52e-125	400
+GH116_query_1	BAZ73748.1 hypothetical protein NIES50_23140 [Aulosira laxa NIES-50]|cazy|GH116	33.544	80	793	445	19	150	888	40	804	3.07e-125	399
+GH116_query_1	QFZ14301.1 bile acid beta-glucosidase [Anabaena sp. YBS01]|cazy|GH116	34.214	80	795	438	21	150	890	40	803	3.59e-125	399
+GH116_query_1	QSV73940.1 bile acid beta-glucosidase [Aphanizomenon flos-aquae AFA_KM1/D3]|cazy|GH116	33.459	80	795	441	23	150	890	38	798	4.86e-125	398
+GH116_query_1	AFW94720.1 putative beta-glucosidase [Anabaena sp. 90]|cazy|GH116	34.048	80	793	437	23	150	891	38	795	3.32e-123	393
+GH116_query_1	QDL12138.1 bile acid beta-glucosidase [Brasilonema sennae CENA114]|cazy|GH116	33.615	80	827	435	20	150	890	40	838	8.88e-123	394
+GH116_query_1	QDL18516.1 bile acid beta-glucosidase [Brasilonema octagenarum UFV-E1]|cazy|GH116	33.615	80	827	435	20	150	890	40	838	8.88e-123	394
+GH116_query_1	AKG22153.1 bile acid beta-glucosidase [Calothrix sp. 336/3]|cazy|GH116	34.395	80	785	440	19	150	888	40	795	9.05e-122	389
+GH116_query_1	BAF21443.1 Os07g0444000 [Oryza sativa (japonica cultivar-group)]|cazy|GH116	47.178	45	443	201	6	476	891	13	449	3.28e-117	368
+GH116_query_1	AFZ01978.1 Glucosylceramidase [Calothrix sp. PCC 6303]|cazy|GH116	32.996	80	791	448	21	150	890	40	798	3.71e-116	375
+GH116_query_1	BBN07406.1 hypothetical protein Mp_4g03610 [Marchantia polymorpha subsp. ruderalis]|cazy|GH116	47.188	85	409	203	3	489	890	575	977	1.72e-108	360
+GH116_query_1	BBN07406.1 hypothetical protein Mp_4g03610 [Marchantia polymorpha subsp. ruderalis]|cazy|GH116	38.609	85	417	225	11	105	496	59	469	6.46e-70	252
+GH116_query_1	AER98955.1 glucosidase, beta 2, partial [Mustela putorius furo]|cazy|GH116	96.815	17	157	5	0	172	328	1	157	3.05e-105	323
+GH116_query_1	QHN78498.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	50.267	84	374	178	3	519	890	560	927	1.35e-103	346
+GH116_query_1	QHN78498.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	39.394	84	429	228	11	105	509	55	475	2.11e-86	298
+GH116_query_1	QHO35356.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	50.267	84	374	178	3	519	890	560	927	1.38e-103	345
+GH116_query_1	QHO35356.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	39.394	84	429	228	11	105	509	55	475	1.84e-86	298
+GH116_query_1	CAB1345383.1 unnamed protein product [Coregonus sp. 'balchen']|cazy|GH116	69.725	24	218	66	0	64	281	11	228	3.30e-100	313
+GH116_query_1	QQP35851.1 Uncharacterized protein FKW44_020776 [Caligus rogercresseyi]|cazy|GH116	43.216	41	398	186	10	520	899	12	387	1.68e-93	301
+GH116_query_1	ACO61507.1 hypothetical protein MICPUN_55788 [Micromonas commoda]|cazy|GH116	30.033	84	919	482	29	132	906	47	948	2.00e-85	295
+GH116_query_1	AFP63561.1 hypothetical protein [Musca domestica]|cazy|GH116	46.269	34	268	134	3	633	894	121	384	2.56e-77	258
+GH116_query_1	AFP63561.1 hypothetical protein [Musca domestica]|cazy|GH116	59.016	34	61	25	0	577	637	2	62	1.89e-17	86.7
+GH116_query_1	EAZ05360.1 hypothetical protein OsI_026592 [Oryza sativa (indica cultivar-group)]|cazy|GH116	42.775	41	346	150	8	406	707	250	591	2.36e-70	246
+GH116_query_1	EAZ05360.1 hypothetical protein OsI_026592 [Oryza sativa (indica cultivar-group)]|cazy|GH116	44.737	41	76	41	1	216	290	101	176	2.26e-15	81.6
+GH116_query_1	AER98954.1 glucosidase, beta 2, partial [Mustela putorius furo]|cazy|GH116	81.102	14	127	24	0	25	151	2	128	1.05e-67	222
+GH116_query_1	ADY41606.1 Non-lysosomal glucosylceramidase [Ascaris suum]|cazy|GH116	43.023	28	258	145	2	640	897	5	260	2.51e-64	218
+GH116_query_1	AEN81036.1 AT1G33700-like protein, partial [Capsella rubella]|cazy|GH116	56.111	19	180	77	1	517	696	1	178	8.15e-61	206
+GH116_query_1	AEN81041.1 AT1G33700-like protein, partial [Capsella rubella]|cazy|GH116	56.111	19	180	77	1	517	696	1	178	8.32e-61	206
+GH116_query_1	BAJ97391.1 predicted protein [Hordeum vulgare subsp. vulgare]|cazy|GH116	35.736	34	333	190	9	161	473	95	423	1.74e-57	204
+GH116_query_1	QAT16274.1 protein containing glucosylceramidase domain [Candidatus Vampirococcus archaeovorus]|cazy|GH116	26.788	72	713	396	25	232	902	96	724	8.53e-51	192
+GH116_query_1	AEN83322.1 AT5G49900-like protein, partial [Capsella grandiflora]|cazy|GH116	55.063	17	158	69	1	531	688	1	156	3.60e-50	175
+GH116_query_1	AEN83325.1 AT5G49900-like protein, partial [Capsella rubella]|cazy|GH116	55.063	17	158	69	1	531	688	1	156	5.18e-50	174
+GH116_query_1	ACF57667.1 bile acid beta-glucosidase, partial [Ctenopharyngodon idella]|cazy|GH116	80.899	10	89	17	0	602	690	1	89	3.64e-46	160
+GH116_query_1	ADC68237.1 hypothetical protein, partial [Dendrobium nobile]|cazy|GH116	44.279	22	201	108	1	637	837	6	202	1.41e-45	164
+GH116_query_1	AEN82035.1 AT3G24180-like protein, partial [Capsella rubella]|cazy|GH116	43.878	21	196	96	3	643	833	4	190	6.37e-44	158
+GH116_query_1	ADG38504.1 AT3G24180-like protein, partial [Capsella grandiflora]|cazy|GH116	43.878	21	196	96	3	643	833	4	190	7.72e-44	158
+GH116_query_1	ADG38508.1 AT3G24180-like protein, partial [Neslia paniculata]|cazy|GH116	44.845	21	194	103	1	640	833	1	190	2.23e-43	157
+GH116_query_1	AYY13601.1 hypothetical protein EF847_13740 [Actinobacteria bacterium YIM 96077]|cazy|GH116	23.684	79	798	487	24	151	884	68	807	7.88e-35	144
+GH116_query_1	QHO13614.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	44.848	17	165	82	4	603	763	4	163	9.29e-34	130
+GH116_query_1	AWR93936.1 hypothetical protein DFR85_04185 [Acidianus brierleyi]|cazy|GH116	22.527	74	728	429	29	151	840	13	643	1.00e-31	134
+GH116_query_1	ADG37974.1 AT1G33700-like protein, partial [Capsella grandiflora]|cazy|GH116	58.333	10	96	40	0	601	696	1	96	1.22e-31	120
+GH116_query_1	ADG37971.1 AT1G33700-like protein, partial [Capsella grandiflora]|cazy|GH116	58.333	10	96	40	0	601	696	1	96	1.24e-31	120
+GH116_query_1	ADG37976.1 AT1G33700-like protein, partial [Neslia paniculata]|cazy|GH116	58.333	10	96	40	0	601	696	1	96	1.59e-31	120
+GH116_query_1	ADG37970.1 AT1G33700-like protein, partial [Capsella grandiflora]|cazy|GH116	58.333	10	96	40	0	601	696	1	96	1.59e-31	120
+GH116_query_1	AWR93938.1 hypothetical protein DFR85_04195 [Acidianus brierleyi]|cazy|GH116	27.500	39	360	224	8	536	895	326	648	8.71e-31	130
+GH116_query_1	EEH53657.1 hypothetical protein MICPUCDRAFT_48400 [Micromonas pusilla CCMP1545]|cazy|GH116	27.371	68	464	235	12	521	890	579	1034	9.34e-31	132
+GH116_query_1	EEH53657.1 hypothetical protein MICPUCDRAFT_48400 [Micromonas pusilla CCMP1545]|cazy|GH116	37.607	68	117	63	2	387	494	381	496	1.77e-14	79.3
+GH116_query_1	EEH53657.1 hypothetical protein MICPUCDRAFT_48400 [Micromonas pusilla CCMP1545]|cazy|GH116	35.465	68	172	91	5	150	302	76	246	3.15e-11	68.9
+GH116_query_1	CCW34131.1 Predicted bile acid beta-glucosidase [Chthonomonas calidirosea T49]|cazy|GH116	23.301	81	824	482	31	143	890	5	754	6.40e-30	129
+GH116_query_1	AEE93223.1 conserved hypothetical protein [Acidianus hospitalis W1]|cazy|GH116	27.451	38	306	208	5	591	896	361	652	1.00e-28	124
+GH116_query_1	AEE93223.1 conserved hypothetical protein [Acidianus hospitalis W1]|cazy|GH116	37.209	38	43	23	2	229	271	80	118	6.3	32.0
+GH116_query_1	ARM75436.1 hypothetical protein B6F84_04930 [Acidianus manzaensis]|cazy|GH116	21.870	69	663	388	25	151	789	13	569	2.01e-28	123
+GH116_query_1	AMD30568.1 hypothetical protein SE86_03575 [Candidatus Nanopusillus acidilobi]|cazy|GH116	24.888	81	892	461	41	146	899	1	821	4.58e-27	119
+GH116_query_1	AEE93237.1 bile acid beta-glucosidase [Acidianus hospitalis W1]|cazy|GH116	22.573	76	793	455	32	151	859	12	729	9.04e-27	119
+GH116_query_1	VUY95630.1 unnamed protein product [Leptidea sinapis]|cazy|GH116	44.355	13	124	44	2	434	557	22	120	1.91e-26	106
+GH116_query_1	AWR96887.1 hypothetical protein DFR86_04490 [Acidianus sulfidivorans JP7]|cazy|GH116	27.244	40	312	191	9	543	852	334	611	5.63e-26	115
+GH116_query_1	AWR96887.1 hypothetical protein DFR86_04490 [Acidianus sulfidivorans JP7]|cazy|GH116	34.483	40	58	30	3	230	287	81	130	8.5	31.6
+GH116_query_1	QGR19609.1 hypothetical protein D1868_06120 [Stygiolobus azoricus]|cazy|GH116	25.587	45	426	273	11	475	893	261	649	1.99e-25	114
+GH116_query_1	ABW02103.1 protein of unknown function DUF608 [Caldivirga maquilingensis IC-167]|cazy|GH116	23.696	69	671	385	26	149	792	11	581	2.27e-25	114
+GH116_query_1	SAI86351.1 uncharacterised protein [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AKA75583.1 hypothetical protein SULC_0479 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AZF83077.1 hypothetical protein SULZ_02435 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AZF70014.1 hypothetical protein SULH_02460 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AZF75256.1 hypothetical protein SULM_02460 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AZF77865.1 hypothetical protein SULN_02460 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	QPG49880.1 hypothetical protein HFC64_08700 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	ACX90768.1 protein of unknown function DUF608 [Saccharolobus solfataricus 98/2]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AKA72884.1 hypothetical protein SULB_0481 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AAK42792.1 Conserved hypothetical protein [Saccharolobus solfataricus P2]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AZF67394.1 hypothetical protein SULG_02460 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AZF72634.1 hypothetical protein SULI_02460 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AZF80471.1 hypothetical protein SULO_02470 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AKA78276.1 hypothetical protein SULA_0479 [Saccharolobus solfataricus]|cazy|GH116	25.581	32	301	211	5	592	892	359	646	3.20e-25	113
+GH116_query_1	AWR93978.1 hypothetical protein DFR85_04425 [Acidianus brierleyi]|cazy|GH116	21.237	74	744	414	25	151	839	13	639	3.53e-25	113
+GH116_query_1	ARM75470.1 hypothetical protein B6F84_05115 [Acidianus manzaensis]|cazy|GH116	26.688	39	311	193	9	543	852	333	609	5.94e-25	112
+GH116_query_1	ARM75470.1 hypothetical protein B6F84_05115 [Acidianus manzaensis]|cazy|GH116	35.185	39	54	29	2	230	283	81	128	0.80	34.7
+GH116_query_1	AOL16815.1 hypothetical protein BFU36_08975 [Sulfolobus sp. A20]|cazy|GH116	26.316	33	304	209	7	591	893	359	648	6.14e-25	112
+GH116_query_1	ADL19016.1 Putative trehalase [Acidilobus saccharovorans 345-15]|cazy|GH116	22.924	79	855	480	32	148	878	13	812	1.19e-24	112
+GH116_query_1	ADX83929.1 conserved hypothetical protein [Sulfolobus islandicus HVE10/4]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.22e-24	111
+GH116_query_1	ACP56531.1 protein of unknown function DUF608 [Sulfolobus islandicus M.16.27]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.27e-24	111
+GH116_query_1	ADX86576.1 conserved hypothetical protein [Sulfolobus islandicus REY15A]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.34e-24	111
+GH116_query_1	AGJ63914.1 putative bile acid beta-glucosidase [Sulfolobus islandicus LAL14/1]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.34e-24	111
+GH116_query_1	ADB88551.1 protein of unknown function DUF608 [Sulfolobus islandicus L.D.8.5]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.35e-24	111
+GH116_query_1	ACP47031.1 protein of unknown function DUF608 [Sulfolobus islandicus Y.G.57.14]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.35e-24	111
+GH116_query_1	ACR43217.1 protein of unknown function DUF608 [Sulfolobus islandicus M.16.4]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.35e-24	111
+GH116_query_1	ACP36736.1 protein of unknown function DUF608 [Sulfolobus islandicus L.S.2.15]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.35e-24	111
+GH116_query_1	ABW02461.1 protein of unknown function DUF608 [Caldivirga maquilingensis IC-167]|cazy|GH116	29.210	31	291	190	6	562	852	340	614	1.49e-24	111
+GH116_query_1	ACP49888.1 protein of unknown function DUF608 [Sulfolobus islandicus Y.N.15.51]|cazy|GH116	25.914	32	301	210	5	592	892	372	659	1.57e-24	110
+GH116_query_1	ACP39349.1 protein of unknown function DUF608 [Sulfolobus islandicus M.14.25]|cazy|GH116	26.246	32	301	209	5	592	892	372	659	1.90e-24	110
+GH116_query_1	QGA68339.1 hypothetical protein GFS33_05890 [Sulfolobus sp. E11-6]|cazy|GH116	27.757	28	263	177	5	592	854	372	621	2.49e-24	110
+GH116_query_1	QGR19608.1 beta-glucosidase [Stygiolobus azoricus]|cazy|GH116	21.829	79	820	465	29	151	882	12	743	3.77e-24	110
+GH116_query_1	AWR96885.1 beta-glucosidase [Acidianus sulfidivorans JP7]|cazy|GH116	21.208	75	778	467	31	151	849	12	722	9.45e-24	108
+GH116_query_1	ABJ86517.1 protein of unknown function DUF608 [Candidatus Solibacter usitatus Ellin6076]|cazy|GH116	23.144	80	808	468	30	153	891	47	770	1.07e-23	108
+GH116_query_1	AOL16565.1 hypothetical protein BFU36_07500 [Sulfolobus sp. A20]|cazy|GH116	22.807	74	741	406	37	151	840	13	638	1.28e-23	108
+GH116_query_1	QGA68118.1 beta-glucosidase [Sulfolobus sp. E11-6]|cazy|GH116	23.338	76	797	424	33	151	859	12	709	2.64e-23	107
+GH116_query_1	SAI86688.1 uncharacterised protein [Saccharolobus solfataricus]|cazy|GH116	23.096	76	788	437	35	151	859	12	709	1.97e-22	104
+GH116_query_1	AET42959.1 hypothetical protein [Saccharolobus solfataricus 98/2]|cazy|GH116	23.096	76	788	437	35	151	859	12	709	1.97e-22	104
+GH116_query_1	AZF83366.1 beta-glucosidase [Saccharolobus solfataricus]|cazy|GH116	23.096	76	788	437	35	151	859	12	709	1.97e-22	104
+GH116_query_1	AKA75881.1 beta-glucosidase [Saccharolobus solfataricus]|cazy|GH116	23.096	76	788	437	35	151	859	12	709	2.30e-22	104
+GH116_query_1	AAK43141.1 Hypothetical protein SSO3039 [Saccharolobus solfataricus P2]|cazy|GH116_characterized	23.096	76	788	437	35	151	859	12	709	2.30e-22	104
+GH116_query_1	AKA78573.1 beta-glucosidase [Saccharolobus solfataricus]|cazy|GH116	23.096	76	788	437	35	151	859	12	709	2.30e-22	104
+GH116_query_1	AKA73183.1 beta-glucosidase [Saccharolobus solfataricus]|cazy|GH116	23.096	76	788	437	35	151	859	12	709	2.30e-22	104
+GH116_query_1	QEH34673.1 hypothetical protein OJF2_32140 [Aquisphaera giovannonii]|cazy|CBM38|GH116	25.483	53	518	290	18	361	848	631	1082	3.38e-22	104
+GH116_query_1	QTX03389.1 hypothetical protein G127AT_08350 [Agromyces sp. G127AT]|cazy|GH116	23.436	78	815	467	29	153	876	19	767	4.21e-22	103
+GH116_query_1	ALJ05385.1 hypothetical protein APS56_09745 [Algibacter alginicilyticus]|cazy|GH116	21.170	82	855	484	33	136	895	27	786	4.43e-22	103
+GH116_query_1	QNI32708.1 hypothetical protein H7849_01435 [Acidobacterium sp. 4Y35]|cazy|GH116	21.514	82	832	497	31	129	890	48	793	1.83e-21	102
+GH116_query_1	AGJ63608.1 putative bile acid beta-glucosidase [Sulfolobus islandicus LAL14/1]|cazy|GH116	21.635	80	832	454	34	151	891	12	736	2.38e-21	101
+GH116_query_1	ADX83599.1 bile acid beta-glucosidase [Sulfolobus islandicus HVE10/4]|cazy|GH116	21.635	80	832	454	34	151	891	27	751	3.61e-21	100
+GH116_query_1	ADX86256.1 bile acid beta-glucosidase [Sulfolobus islandicus REY15A]|cazy|GH116	21.635	80	832	454	34	151	891	27	751	4.21e-21	100
+GH116_query_1	AAK41589.1 Hypothetical protein SSO1353 [Saccharolobus solfataricus P2]|cazy|GH116_characterized	21.901	75	726	409	31	147	837	9	611	5.53e-21	99.8
+GH116_query_1	QPG48958.1 hypothetical protein HFC64_02535 [Saccharolobus solfataricus]|cazy|GH116	21.901	75	726	409	31	147	837	9	611	5.53e-21	99.8
+GH116_query_1	ACP39048.1 protein of unknown function DUF608 [Sulfolobus islandicus M.14.25]|cazy|GH116	21.729	80	833	452	34	151	891	27	751	1.25e-20	99.0
+GH116_query_1	AFA26156.1 non-lysosomal glucosylceramidase-like protein, partial [Lolium perenne]|cazy|GH116	45.370	12	108	59	0	651	758	2	109	1.55e-20	89.0
+GH116_query_1	ACP56253.1 protein of unknown function DUF608 [Sulfolobus islandicus M.16.27]|cazy|GH116	21.729	80	833	452	34	151	891	27	751	1.76e-20	98.6
+GH116_query_1	ADB86661.1 protein of unknown function DUF608 [Sulfolobus islandicus L.D.8.5]|cazy|GH116	24.911	29	281	186	8	617	888	474	738	2.77e-20	97.8
+GH116_query_1	ACP47613.1 protein of unknown function DUF608 [Sulfolobus islandicus Y.N.15.51]|cazy|GH116	21.755	80	832	453	35	151	891	25	749	2.91e-20	97.8
+GH116_query_1	ACP46699.1 protein of unknown function DUF608 [Sulfolobus islandicus Y.G.57.14]|cazy|GH116	21.755	80	832	453	35	151	891	27	751	3.05e-20	97.8
+GH116_query_1	ACP36451.1 protein of unknown function DUF608 [Sulfolobus islandicus L.S.2.15]|cazy|GH116	21.755	80	832	453	35	151	891	27	751	3.05e-20	97.8
+GH116_query_1	ARM74600.1 beta-glucosidase [Acidianus manzaensis]|cazy|GH116	21.118	75	805	433	31	151	849	12	720	3.63e-20	97.4
+GH116_query_1	ADB88227.1 hypothetical protein LD85_2606 [Sulfolobus islandicus L.D.8.5]|cazy|GH116	21.755	80	832	453	35	151	891	12	736	3.71e-20	97.4
+GH116_query_1	ACR42918.1 protein of unknown function DUF608 [Sulfolobus islandicus M.16.4]|cazy|GH116	21.524	80	827	461	36	151	891	27	751	4.15e-20	97.4
+GH116_query_1	QHO32486.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	45.783	9	83	44	1	209	290	10	92	8.10e-20	87.0
+GH116_query_1	ARM75461.1 beta-glucosidase [Acidianus manzaensis]|cazy|GH116	20.844	75	806	434	31	151	849	12	720	9.26e-20	96.3
+GH116_query_1	QTH40233.1 hypothetical protein J4772_21850 [Cohnella sp. LGH]|cazy|GH116	21.921	80	812	479	30	153	891	18	747	2.14e-19	95.1
+GH116_query_1	QHN86501.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	51.220	17	82	37	1	428	509	33	111	3.14e-19	89.0
+GH116_query_1	QHN86501.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	32.051	17	78	52	1	774	850	112	189	0.002	42.0
+GH116_query_1	AWR93922.1 beta-glucosidase [Acidianus brierleyi]|cazy|GH116	20.269	76	819	450	33	151	859	12	737	8.41e-19	93.2
+GH116_query_1	ACQ79968.1 protein of unknown function DUF608 [Beutenbergia cavernae DSM 12333]|cazy|GH116	23.202	81	862	492	35	153	903	18	820	2.36e-18	91.7
+GH116_query_1	ADX81753.1 conserved hypothetical protein [Sulfolobus islandicus HVE10/4]|cazy|GH116	21.440	65	625	376	26	231	837	82	609	5.02e-18	90.5
+GH116_query_1	ACP54914.1 protein of unknown function DUF608 [Sulfolobus islandicus M.16.27]|cazy|GH116	21.361	65	632	368	28	231	837	82	609	5.86e-18	90.1
+GH116_query_1	ACP37718.1 protein of unknown function DUF608 [Sulfolobus islandicus M.14.25]|cazy|GH116	21.203	65	632	369	28	231	837	82	609	8.58e-18	89.7
+GH116_query_1	ADX84873.1 conserved hypothetical protein [Sulfolobus islandicus REY15A]|cazy|GH116	21.485	65	633	366	29	231	837	82	609	8.72e-18	89.7
+GH116_query_1	AGJ61840.1 putative bile acid beta-glucosidase [Sulfolobus islandicus LAL14/1]|cazy|GH116	21.485	65	633	366	29	231	837	82	609	8.72e-18	89.7
+GH116_query_1	SDS67253.1 Uncharacterized protein, contains GBA2_N and DUF608 domains [Actinopolymorpha singaporensis]|cazy|GH116	22.073	81	820	493	26	136	884	7	751	8.87e-18	89.7
+GH116_query_1	ACR41546.1 protein of unknown function DUF608 [Sulfolobus islandicus M.16.4]|cazy|GH116	21.361	65	632	368	28	231	837	82	609	9.19e-18	89.4
+GH116_query_1	QJD86308.1 DUF2961 domain-containing protein [Cohnella sp. MFER-1]|cazy|GH116	22.194	75	775	457	31	153	848	181	888	1.20e-17	89.7
+GH116_query_1	AEE93218.1 conserved hypothetical protein [Acidianus hospitalis W1]|cazy|GH116	22.046	73	694	417	32	151	829	13	597	1.26e-16	85.9
+GH116_query_1	QHO35236.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	49.383	16	81	39	1	812	890	125	205	3.04e-16	80.9
+GH116_query_1	QHO35236.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	39.286	16	84	33	2	428	493	3	86	5.85e-08	56.2
+GH116_query_1	AZP37022.1 hypothetical protein DUY81_03675 [Acidipropionibacterium acidipropionici]|cazy|GH116	24.239	78	821	461	39	153	876	2	758	4.47e-16	84.3
+GH116_query_1	AOZ46896.1 hypothetical protein A8L58_09520 [Acidipropionibacterium acidipropionici]|cazy|GH116	24.239	78	821	461	39	153	876	2	758	4.47e-16	84.3
+GH116_query_1	AYB33443.1 hypothetical protein D4L85_23900 [Chryseolinea soli]|cazy|GH116	20.854	80	820	492	29	153	892	67	809	1.95e-15	82.4
+GH116_query_1	ALJ59152.1 hypothetical protein BcellWH2_01901 [Bacteroides cellulosilyticus]|cazy|GH116	23.698	54	384	231	13	149	487	62	428	2.14e-15	82.4
+GH116_query_1	ALJ59152.1 hypothetical protein BcellWH2_01901 [Bacteroides cellulosilyticus]|cazy|GH116	26.087	54	161	105	5	625	781	522	672	1.24e-05	50.4
+GH116_query_1	ALJ05394.1 hypothetical protein APS56_09805 [Algibacter alginicilyticus]|cazy|GH116	20.000	74	740	462	26	132	815	22	687	3.02e-15	81.6
+GH116_query_1	QBJ18459.1 hypothetical protein EYA81_09045 [Bacteroides sp. A1C1]|cazy|GH116	27.273	25	253	155	9	619	849	641	886	4.88e-15	81.3
+GH116_query_1	AKA74835.1 hypothetical protein SULB_2775 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AZF82376.1 hypothetical protein SULO_14135 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AAK42141.1 Hypothetical protein SSO1948 [Saccharolobus solfataricus P2]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	ACP49446.1 protein of unknown function DUF608 [Sulfolobus islandicus Y.N.15.51]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AKA80221.1 hypothetical protein SULA_2774 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AZF84969.1 hypothetical protein SULZ_14150 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AZF71922.1 hypothetical protein SULH_14135 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AKA77531.1 hypothetical protein SULC_2772 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AZF79770.1 hypothetical protein SULN_14115 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AZF69302.1 hypothetical protein SULG_14135 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AZF77165.1 hypothetical protein SULM_14125 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	ACP45000.1 protein of unknown function DUF608 [Sulfolobus islandicus Y.G.57.14]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	SAI85631.1 uncharacterised protein [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	AZF74542.1 hypothetical protein SULI_14135 [Saccharolobus solfataricus]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	ACX92838.1 protein of unknown function DUF608 [Saccharolobus solfataricus 98/2]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.14e-15	80.5
+GH116_query_1	ACP34750.1 protein of unknown function DUF608 [Sulfolobus islandicus L.S.2.15]|cazy|GH116	25.670	28	261	167	9	582	837	371	609	5.28e-15	80.5
+GH116_query_1	QDV74336.1 hypothetical protein Spa11_25390 [Botrimarina mediterranea]|cazy|GH116	27.687	46	307	175	13	619	898	674	960	5.74e-15	80.9
+GH116_query_1	QDV74336.1 hypothetical protein Spa11_25390 [Botrimarina mediterranea]|cazy|GH116	20.859	46	163	107	6	148	293	91	248	0.75	35.0
+GH116_query_1	APZ09187.1 hypothetical protein BWX38_07895 [Acidipropionibacterium acidipropionici]|cazy|GH116	26.817	56	399	235	18	535	908	427	793	4.13e-14	78.2
+GH116_query_1	APZ09187.1 hypothetical protein BWX38_07895 [Acidipropionibacterium acidipropionici]|cazy|GH116	23.214	56	168	104	4	153	296	2	168	0.20	37.0
+GH116_query_1	AFV90788.1 hypothetical protein PACID_30230 [Acidipropionibacterium acidipropionici ATCC 4875]|cazy|GH116	26.817	56	399	235	18	535	908	427	793	4.13e-14	78.2
+GH116_query_1	AFV90788.1 hypothetical protein PACID_30230 [Acidipropionibacterium acidipropionici ATCC 4875]|cazy|GH116	23.214	56	168	104	4	153	296	2	168	0.20	37.0
+GH116_query_1	BCJ35125.1 hypothetical protein Athai_26280 [Actinocatenispora thailandica]|cazy|GH116	26.142	54	394	213	17	546	897	479	836	6.12e-14	77.4
+GH116_query_1	BCJ35125.1 hypothetical protein Athai_26280 [Actinocatenispora thailandica]|cazy|GH116	20.958	54	167	114	3	147	296	47	212	0.055	38.5
+GH116_query_1	ADB52396.1 protein of unknown function DUF608 [Conexibacter woesei DSM 14684]|cazy|GH116	31.250	41	256	140	12	619	850	503	746	8.40e-14	77.0
+GH116_query_1	ADB52396.1 protein of unknown function DUF608 [Conexibacter woesei DSM 14684]|cazy|GH116	25.000	41	168	108	3	147	296	15	182	0.23	36.6
+GH116_query_1	BCJ30736.1 hypothetical protein Asera_48440 [Actinocatenispora sera]|cazy|GH116	26.016	50	369	196	16	576	899	477	813	1.66e-13	76.3
+GH116_query_1	BCJ30736.1 hypothetical protein Asera_48440 [Actinocatenispora sera]|cazy|GH116	22.360	50	161	107	3	153	296	25	184	0.31	36.2
+GH116_query_1	ADB86607.1 hypothetical protein LD85_0902 [Sulfolobus islandicus L.D.8.5]|cazy|GH116	21.471	52	503	283	23	231	711	82	494	3.73e-13	74.3
+GH116_query_1	QHO32654.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	55.932	6	59	25	1	519	577	34	91	1.30e-12	66.2
+GH116_query_1	QGR19833.1 hypothetical protein D1868_07485 [Stygiolobus azoricus]|cazy|GH116	23.913	51	368	224	15	505	863	294	614	2.02e-12	72.4
+GH116_query_1	QGR19833.1 hypothetical protein D1868_07485 [Stygiolobus azoricus]|cazy|GH116	29.365	51	126	58	7	150	267	12	114	3.6	32.7
+GH116_query_1	QDO68264.1 hypothetical protein DXK01_004690 [Bacteroides intestinalis]|cazy|GH116	25.692	25	253	159	9	619	849	641	886	4.77e-12	71.6
+GH116_query_1	QTH43032.1 hypothetical protein J4772_00620 [Cohnella sp. LGH]|cazy|GH116	20.101	75	796	447	30	153	848	21	727	5.26e-12	71.2
+GH116_query_1	VUY95629.1 unnamed protein product [Leptidea sinapis]|cazy|GH116	42.188	13	128	63	5	81	203	15	136	5.33e-12	65.9
+GH116_query_1	QPG49234.1 hypothetical protein HFC64_04670 [Saccharolobus solfataricus]|cazy|GH116	27.742	17	155	101	4	582	734	371	516	6.50e-12	70.5
+GH116_query_1	AMY07652.1 putative bile acid beta-glucosidase [Luteitalea pratensis]|cazy|GH116	24.920	45	313	177	11	619	890	528	823	9.19e-12	70.5
+GH116_query_1	AMY07652.1 putative bile acid beta-glucosidase [Luteitalea pratensis]|cazy|GH116	22.436	45	156	109	2	153	296	85	240	0.007	41.6
+GH116_query_1	SMD44884.1 Uncharacterized protein, contains GBA2_N and DUF608 domains [Aquiflexum balticum DSM 16537]|cazy|GH116	26.174	62	298	180	10	625	899	523	803	2.14e-11	69.3
+GH116_query_1	SMD44884.1 Uncharacterized protein, contains GBA2_N and DUF608 domains [Aquiflexum balticum DSM 16537]|cazy|GH116	22.384	62	344	212	15	133	430	25	359	3.42e-07	55.5
+GH116_query_1	BAM01381.1 hypothetical protein CLDAP_33410 [Caldilinea aerophila DSM 14535 = NBRC 104270]|cazy|GH116	22.614	65	681	368	29	240	841	157	757	2.59e-11	68.9
+GH116_query_1	QRP57525.1 hypothetical protein I6J49_15830 [Bacteroides caccae]|cazy|GH116	24.919	60	309	197	11	136	416	30	331	2.81e-11	68.9
+GH116_query_1	QRP57525.1 hypothetical protein I6J49_15830 [Bacteroides caccae]|cazy|GH116	22.078	60	308	184	11	625	895	488	776	3.17e-10	65.5
+GH116_query_1	QQT77229.1 hypothetical protein I6I54_13185 [Bacteroides caccae]|cazy|GH116	24.919	60	309	197	11	136	416	30	331	2.81e-11	68.9
+GH116_query_1	QQT77229.1 hypothetical protein I6I54_13185 [Bacteroides caccae]|cazy|GH116	22.078	60	308	184	11	625	895	488	776	3.17e-10	65.5
+GH116_query_1	ASM66199.1 hypothetical protein CGC64_09735 [Bacteroides caccae]|cazy|GH116	24.919	60	309	197	11	136	416	30	331	2.81e-11	68.9
+GH116_query_1	ASM66199.1 hypothetical protein CGC64_09735 [Bacteroides caccae]|cazy|GH116	22.078	60	308	184	11	625	895	488	776	3.17e-10	65.5
+GH116_query_1	SAI85022.1 uncharacterised protein [Saccharolobus solfataricus]|cazy|GH116	25.121	21	207	122	7	641	837	1	184	1.77e-10	63.5
+GH116_query_1	AYB33674.1 hypothetical protein D4L85_25205 [Chryseolinea soli]|cazy|GH116	23.675	38	283	173	8	625	876	507	777	2.14e-10	65.9
+GH116_query_1	AYB33674.1 hypothetical protein D4L85_25205 [Chryseolinea soli]|cazy|GH116	25.962	38	104	64	2	190	293	150	240	0.001	43.9
+GH116_query_1	AOL16816.1 hypothetical protein BFU36_08980 [Sulfolobus sp. A20]|cazy|GH116	21.127	38	426	234	16	534	889	333	726	2.52e-10	65.9
+GH116_query_1	ALJ05392.1 hypothetical protein APS56_09795 [Algibacter alginicilyticus]|cazy|GH116	24.765	56	319	193	12	123	416	26	322	3.45e-10	65.5
+GH116_query_1	ALJ05392.1 hypothetical protein APS56_09795 [Algibacter alginicilyticus]|cazy|GH116	22.222	56	261	157	8	625	846	482	735	1.03e-05	50.8
+GH116_query_1	SDS59678.1 Uncharacterized protein, contains GBA2_N and DUF608 domains [Actinopolymorpha singaporensis]|cazy|GH116	23.411	56	299	179	8	619	876	450	739	1.26e-09	63.5
+GH116_query_1	SDS59678.1 Uncharacterized protein, contains GBA2_N and DUF608 domains [Actinopolymorpha singaporensis]|cazy|GH116	24.911	56	281	184	8	153	415	25	296	3.23e-07	55.5
+GH116_query_1	QEH32152.1 hypothetical protein OJF2_06210 [Aquisphaera giovannonii]|cazy|CBM38|GH116	27.305	43	282	164	10	625	876	699	969	1.31e-09	63.5
+GH116_query_1	QEH32152.1 hypothetical protein OJF2_06210 [Aquisphaera giovannonii]|cazy|CBM38|GH116	22.353	43	170	96	4	151	297	105	261	0.002	43.1
+GH116_query_1	AXA36990.1 hypothetical protein BRCON_2213 [Candidatus Sumerlaea chitinivorans]|cazy|GH116	23.955	36	359	227	12	151	482	204	543	1.44e-09	63.5
+GH116_query_1	CCW34759.1 Predicted bile acid beta-glucosidase [Chthonomonas calidirosea T49]|cazy|GH116	24.183	44	306	183	10	619	884	461	757	1.60e-09	63.2
+GH116_query_1	CCW34759.1 Predicted bile acid beta-glucosidase [Chthonomonas calidirosea T49]|cazy|GH116	27.950	44	161	93	7	153	296	22	176	0.017	40.0
+GH116_query_1	QJB33198.1 hypothetical protein HF329_18505 [Chitinophaga sp. 1310]|cazy|GH116	22.376	64	362	248	9	148	488	68	417	2.09e-09	62.8
+GH116_query_1	QJB33198.1 hypothetical protein HF329_18505 [Chitinophaga sp. 1310]|cazy|GH116	23.345	64	287	169	9	625	876	498	768	2.28e-09	62.8
+GH116_query_1	QJB39674.1 hypothetical protein HF324_18145 [Chitinophaga sp. 1303]|cazy|GH116	22.376	64	362	248	9	148	488	68	417	2.14e-09	62.8
+GH116_query_1	QJB39674.1 hypothetical protein HF324_18145 [Chitinophaga sp. 1303]|cazy|GH116	23.345	64	287	169	9	625	876	498	768	2.48e-09	62.4
+GH116_query_1	QTH43261.1 hypothetical protein J4772_01975 [Cohnella sp. LGH]|cazy|GH116	23.322	26	283	167	10	612	848	451	729	2.15e-09	62.8
+GH116_query_1	QDV64052.1 hypothetical protein Mal65_32000 [Crateriforma conspicua]|cazy|GH116	24.016	24	254	157	7	625	849	627	873	2.35e-09	62.8
+GH116_query_1	BBK86457.1 hypothetical protein Bun01g_08270 [Bacteroides uniformis]|cazy|GH116	21.127	33	284	168	9	612	848	621	895	4.76e-09	61.6
+GH116_query_1	BBK86457.1 hypothetical protein Bun01g_08270 [Bacteroides uniformis]|cazy|GH116	27.027	33	74	50	2	226	297	129	200	0.51	35.4
+GH116_query_1	AGU13697.1 putative beta-glucosidase Bgl1 [Bacteroides uniformis]|cazy|GH116	21.127	46	284	168	9	612	848	621	895	4.93e-09	61.6
+GH116_query_1	AGU13697.1 putative beta-glucosidase Bgl1 [Bacteroides uniformis]|cazy|GH116	24.490	46	196	114	10	226	415	129	296	0.17	37.0
+GH116_query_1	QQA30036.1 hypothetical protein I6G58_18970 [Bacteroides uniformis]|cazy|GH116	21.127	46	284	168	9	612	848	599	873	5.41e-09	61.6
+GH116_query_1	QQA30036.1 hypothetical protein I6G58_18970 [Bacteroides uniformis]|cazy|GH116	24.490	46	196	114	10	226	415	107	274	0.18	37.0
+GH116_query_1	AQT69739.1 putative bile acid beta-glucosidase [Anaerohalosphaera lusitana]|cazy|CBM38|GH116	22.605	53	522	294	19	388	876	483	927	1.80e-08	59.7
+GH116_query_1	QDV64055.1 hypothetical protein Mal65_32030 [Crateriforma conspicua]|cazy|GH116	27.273	18	176	115	5	625	795	552	719	2.02e-08	59.7
+GH116_query_1	QQA08881.1 hypothetical protein I6G92_02805 [Bacteroides thetaiotaomicron]|cazy|GH116	19.205	44	302	165	10	604	848	472	751	6.70e-08	57.8
+GH116_query_1	QQA08881.1 hypothetical protein I6G92_02805 [Bacteroides thetaiotaomicron]|cazy|GH116	28.415	44	183	104	10	153	316	50	224	0.36	35.8
+GH116_query_1	AAO78014.1 conserved hypothetical protein [Bacteroides thetaiotaomicron VPI-5482]|cazy|GH116	19.205	44	302	165	10	604	848	472	751	6.70e-08	57.8
+GH116_query_1	AAO78014.1 conserved hypothetical protein [Bacteroides thetaiotaomicron VPI-5482]|cazy|GH116	28.415	44	183	104	10	153	316	50	224	0.36	35.8
+GH116_query_1	QMW85336.1 hypothetical protein FE838_04315 [Bacteroides thetaiotaomicron]|cazy|GH116	19.205	44	302	165	10	604	848	472	751	6.70e-08	57.8
+GH116_query_1	QMW85336.1 hypothetical protein FE838_04315 [Bacteroides thetaiotaomicron]|cazy|GH116	28.415	44	183	104	10	153	316	50	224	0.36	35.8
+GH116_query_1	QPH58776.1 hypothetical protein ITJ87_04165 [Bacteroides sp. HF-162]|cazy|GH116	20.192	47	312	191	9	612	876	621	921	1.53e-07	56.6
+GH116_query_1	QPH58776.1 hypothetical protein ITJ87_04165 [Bacteroides sp. HF-162]|cazy|GH116	24.324	47	185	118	8	128	297	23	200	0.007	41.6
+GH116_query_1	QBJ18474.1 hypothetical protein EYA81_09130 [Bacteroides sp. A1C1]|cazy|GH116	20.192	47	312	191	9	612	876	621	921	1.53e-07	56.6
+GH116_query_1	QBJ18474.1 hypothetical protein EYA81_09130 [Bacteroides sp. A1C1]|cazy|GH116	24.324	47	185	118	8	128	297	23	200	0.007	41.6
+GH116_query_1	BBK87334.1 hypothetical protein Bun01g_17040 [Bacteroides uniformis]|cazy|GH116	20.285	36	281	176	8	611	848	484	759	1.87e-07	56.6
+GH116_query_1	BBK87334.1 hypothetical protein Bun01g_17040 [Bacteroides uniformis]|cazy|GH116	26.126	36	111	63	5	218	311	124	232	0.61	35.0
+GH116_query_1	QQA29305.1 hypothetical protein I6G58_15025 [Bacteroides uniformis]|cazy|GH116	20.285	36	281	176	8	611	848	477	752	1.90e-07	56.2
+GH116_query_1	QQA29305.1 hypothetical protein I6G58_15025 [Bacteroides uniformis]|cazy|GH116	26.126	36	111	63	5	218	311	117	225	0.56	35.4
+GH116_query_1	BCI61147.1 hypothetical protein C12CBH8_17860 [Clostridia bacterium 12CBH8]|cazy|GH116	22.016	36	377	232	16	151	482	52	411	1.91e-07	56.6
+GH116_query_1	QEH34265.1 hypothetical protein OJF2_28000 [Aquisphaera giovannonii]|cazy|CBM38|GH116	23.034	69	534	292	24	385	876	473	929	2.30e-07	56.2
+GH116_query_1	QEH34265.1 hypothetical protein OJF2_28000 [Aquisphaera giovannonii]|cazy|CBM38|GH116	22.293	69	157	98	4	151	296	88	231	2.58e-04	46.2
+GH116_query_1	ALJ04711.1 glucosylceramidase [Algibacter alginicilyticus]|cazy|GH116	23.675	42	283	172	12	625	876	526	795	1.82e-06	53.1
+GH116_query_1	ALJ04711.1 glucosylceramidase [Algibacter alginicilyticus]|cazy|GH116	26.207	42	145	94	5	151	287	94	233	4.9	32.3
+GH116_query_1	QEC74292.1 hypothetical protein FSB73_14235 [Arachidicoccus ginsenosidivorans]|cazy|GH116	20.628	64	669	388	30	254	850	182	779	2.08e-06	53.1
+GH116_query_1	QDO68263.1 hypothetical protein DXK01_004685 [Bacteroides intestinalis]|cazy|GH116	20.930	35	301	176	9	612	863	471	758	3.32e-06	52.4
+GH116_query_1	QDO68263.1 hypothetical protein DXK01_004685 [Bacteroides intestinalis]|cazy|GH116	25.974	35	77	56	1	218	293	119	195	1.3	34.3
+GH116_query_1	QQP35852.1 Uncharacterized protein FKW44_020777 [Caligus rogercresseyi]|cazy|GH116	35.211	7	71	41	2	177	242	3	73	4.77e-06	47.0
+GH116_query_1	ADO41150.1 protein of unknown function DUF608, partial [Sulfolobus islandicus]|cazy|GH116	26.744	16	172	99	5	518	665	80	248	1.08e-05	49.3
+GH116_query_1	QTH40464.1 hypothetical protein J4772_23115 [Cohnella sp. LGH]|cazy|GH116	20.280	26	286	171	9	611	848	442	718	1.13e-05	50.4
+GH116_query_1	ADO41148.1 protein of unknown function DUF608, partial [Sulfolobus islandicus]|cazy|GH116	26.163	16	172	100	4	518	665	80	248	1.88e-05	48.5
+GH116_query_1	ADO41147.1 protein of unknown function DUF608, partial [Sulfolobus islandicus]|cazy|GH116	26.163	16	172	100	4	518	665	80	248	1.91e-05	48.5
+GH116_query_1	ADO41149.1 protein of unknown function DUF608, partial [Sulfolobus islandicus]|cazy|GH116	26.163	16	172	100	4	518	665	80	248	2.81e-05	48.1
+GH116_query_1	QQA29312.1 hypothetical protein I6G58_15060 [Bacteroides uniformis]|cazy|GH116	20.183	31	327	205	9	612	895	478	791	5.90e-05	48.1
+GH116_query_1	BBK87327.1 hypothetical protein Bun01g_16970 [Bacteroides uniformis]|cazy|GH116	20.183	31	327	205	9	612	895	456	769	5.90e-05	48.1
+GH116_query_1	QPC83198.1 glycogen debranching enzyme family protein [Anaerolinea sp. 'rifampicinis']|cazy|GH133	25.714	21	210	116	9	552	745	322	507	1.26e-04	47.0
+GH116_query_1	QBJ18460.1 hypothetical protein EYA81_09050 [Bacteroides sp. A1C1]|cazy|GH116	19.529	31	297	185	9	612	863	472	759	2.22e-04	46.6
+GH116_query_1	QBJ18460.1 hypothetical protein EYA81_09050 [Bacteroides sp. A1C1]|cazy|GH116	32.500	31	40	27	0	254	293	157	196	3.3	32.7
+GH116_query_1	AWS00245.1 glycogen debranching protein [Metallosphaera hakonensis JCM 8857 = DSM 7519]|cazy|GH133	26.115	15	157	92	7	607	745	312	462	5.12e-04	45.1
+GH116_query_1	QGR19086.1 Bacterial alpha-L-rhamnosidase [Stygiolobus azoricus]|cazy|GH133	24.138	21	203	120	10	564	754	288	468	0.001	43.9
+GH116_query_1	BBD73570.1 hypothetical protein HS1genome_1959 [Sulfodiicoccus acidiphilus]|cazy|GH116	22.581	46	434	245	19	402	829	170	518	0.002	43.5
+GH116_query_1	AKV83399.1 glycogen debranching protein [Metallosphaera sedula]|cazy|GH133	28.030	13	132	81	5	607	726	312	441	0.002	42.7
+GH116_query_1	AKV76663.1 glycogen debranching protein [Metallosphaera sedula]|cazy|GH133	28.030	13	132	81	5	607	726	312	441	0.002	42.7
+GH116_query_1	AKV81160.1 glycogen debranching protein [Metallosphaera sedula]|cazy|GH133	28.030	13	132	81	5	607	726	312	441	0.002	42.7
+GH116_query_1	AKV74424.1 glycogen debranching protein [Metallosphaera sedula]|cazy|GH133	28.030	13	132	81	5	607	726	312	441	0.002	42.7
+GH116_query_1	AIM27563.1 glycogen debranching enzyme, putative [Metallosphaera sedula]|cazy|GH133	28.030	13	132	81	5	607	726	312	441	0.002	42.7
+GH116_query_1	QCO30987.1 glycogen debranching protein [Metallosphaera prunae]|cazy|GH133	28.030	13	132	81	5	607	726	312	441	0.002	42.7
+GH116_query_1	AKV78915.1 glycogen debranching protein [Metallosphaera sedula]|cazy|GH133	28.030	13	132	81	5	607	726	312	441	0.002	42.7
+GH116_query_1	QRN93588.1 glycogen debranching enzyme family protein [Archangium violaceum]|cazy|GH133	25.581	12	129	79	5	619	732	388	514	0.005	42.0
+GH116_query_1	QHN98001.1 Chloride channel protein [Arachis hypogaea]|cazy|GH116	73.684	9	19	5	0	536	554	188	206	0.049	37.7
+GH116_query_1	QHN98001.1 Chloride channel protein [Arachis hypogaea]|cazy|GH116	30.000	9	70	43	2	275	342	6	71	1.0	33.5
+GH116_query_1	AHC51487.1 glycogen debranching protein [Sulfolobus acidocaldarius SUSAZ]|cazy|GH133	19.868	15	151	100	5	619	754	326	470	0.076	38.1
+GH116_query_1	ADY21335.1 endo-alpha-N-acetylgalactosaminidase [Bacillus thuringiensis serovar finitimus YBT-020]|cazy|GH101	27.869	12	122	77	4	741	851	1016	1137	0.098	37.7
+GH116_query_1	QCU11462.1 cell surface protein [Bacillus paranthracis]|cazy|GH101	27.869	12	122	77	4	741	851	1016	1137	0.098	37.7
+GH116_query_1	ALU31308.1 glycogen debranching protein [Sulfolobus acidocaldarius]|cazy|GH133	20.652	18	184	113	8	586	754	305	470	0.10	37.7
+GH116_query_1	ALU28595.1 glycogen debranching protein [Sulfolobus acidocaldarius]|cazy|GH133	20.652	18	184	113	8	586	754	305	470	0.10	37.7
+GH116_query_1	AKB82822.1 Putative glycogen debranching enzyme, archaeal type, TIGR01561 [Methanosarcina barkeri 3]|cazy|GH133	22.930	16	157	97	6	587	732	342	485	0.11	37.4
+GH116_query_1	ACJ81926.1 endo-alpha-N-acetylgalactosaminidase [Bacillus cereus AH187]|cazy|GH101	27.049	12	122	78	4	741	851	1019	1140	0.15	37.4
+GH116_query_1	QRH06324.1 cell surface protein [Bacillus paranthracis]|cazy|GH101	27.049	12	122	78	4	741	851	1019	1140	0.15	37.4
+GH116_query_1	AYY26585.1 cell surface protein [Bacillus sp. FDAARGOS_527]|cazy|GH101	27.049	12	122	78	4	741	851	1019	1140	0.15	37.4
+GH116_query_1	QPA40970.1 cell surface protein [Bacillus paranthracis]|cazy|GH101	27.049	12	122	78	4	741	851	1019	1140	0.15	37.4
+GH116_query_1	QPA46723.1 cell surface protein [Bacillus cereus]|cazy|GH101	27.049	12	122	78	4	741	851	1019	1140	0.15	37.4
+GH116_query_1	BAL17719.1 conserved hypothetical protein [Bacillus cereus NC7401]|cazy|GH101	27.049	12	122	78	4	741	851	1019	1140	0.15	37.4
+GH116_query_1	QGG19951.1 cell surface protein [Bacillus paranthracis]|cazy|GH101	27.049	12	122	78	4	741	851	1019	1140	0.15	37.4
+GH116_query_1	AAO76108.1 putative alpha-rhamnosidase [Bacteroides thetaiotaomicron VPI-5482]|cazy|GH78_structure	23.140	13	121	86	3	619	734	382	500	0.15	37.0
+GH116_query_1	QHH84546.1 cell surface protein [Bacillus paranthracis]|cazy|GH101	27.049	12	122	78	4	741	851	1016	1137	0.15	37.4
+GH116_query_1	ARM75051.1 glycogen debranching protein [Acidianus manzaensis]|cazy|GH133	23.026	14	152	95	5	619	751	327	475	0.18	37.0
+GH116_query_1	AKJ39514.1 glycogen debranching enzyme [Methanosarcina barkeri CM1]|cazy|GH133	22.293	16	157	98	6	587	732	342	485	0.19	37.0
+GH116_query_1	AKB53191.1 Putative glycogen debranching enzyme, archaeal type, TIGR01561 [Methanosarcina barkeri MS]|cazy|GH133	22.293	16	157	98	6	587	732	342	485	0.19	36.6
+GH116_query_1	QKG20451.1 alpha-L-rhamnosidase [Actinomadura verrucosospora]|cazy|GH78	25.000	12	116	86	1	624	738	373	488	0.21	36.6
+GH116_query_1	AKB58705.1 Putative glycogen debranching enzyme, archaeal type, TIGR01561 [Methanosarcina barkeri 227]|cazy|GH133	22.293	16	157	98	6	587	732	342	485	0.21	36.6
+GH116_query_1	QHO32478.1 Non-lysosomal glucosylceramidase [Arachis hypogaea]|cazy|GH116	41.935	3	31	18	0	429	459	96	126	0.28	34.3
+GH116_query_1	QPR53035.1 hypothetical protein I6G90_11115 [Aeromonas allosaccharophila]|cazy|GH133	22.727	13	132	92	4	610	734	177	305	0.34	35.8
+GH116_query_1	AKB42845.1 Putative glycogen debranching enzyme, archaeal type, TIGR01561 [Methanosarcina vacuolata Z-761]|cazy|GH133	22.293	16	157	98	6	587	732	342	485	0.44	35.4
+GH116_query_1	AKB46329.1 Putative glycogen debranching enzyme, archaeal type, TIGR01561 [Methanosarcina sp. Kolksee]|cazy|GH133	22.293	16	157	98	6	587	732	342	485	0.51	35.4
+GH116_query_1	QKG22334.1 glycoside hydrolase family protein [Actinomadura verrucosospora]|cazy|GH63	35.484	6	62	36	2	616	673	408	469	0.52	35.4
+GH116_query_1	CAD7768580.1 Amylo-alpha-1,6-glucosidase [Candidatus Methanoperedenaceae archaeon GB50]|cazy|GH133	23.853	11	109	71	5	635	732	393	500	0.57	35.4
+GH116_query_1	CAD7768559.1 Amylo-alpha-1,6-glucosidase [Candidatus Methanoperedenaceae archaeon GB37]|cazy|GH133	23.853	11	109	71	5	635	732	393	500	0.58	35.0
+GH116_query_1	AOL15618.1 glycogen debranching protein [Sulfolobus sp. A20]|cazy|GH133	26.667	9	90	56	3	619	698	333	422	0.59	35.0
+GH116_query_1	AKB52610.1 Putative glycogen debranching enzyme, archaeal type, TIGR01561 [Methanosarcina barkeri str. Wiesmoor]|cazy|GH133	22.293	16	157	98	6	587	732	342	485	0.69	35.0
+GH116_query_1	QDU56936.1 Bacterial alpha-L-rhamnosidase [Aeoliella mucimassa]|cazy|GH78	24.194	12	124	80	4	625	738	381	500	0.97	34.7
+GH116_query_1	AWI53579.1 glycogen debranching protein [Aquabacterium olei]|cazy|GH133	23.134	13	134	81	5	619	737	384	510	1.00	34.3
+GH116_query_1	AWR96571.1 glycogen debranching protein [Acidianus sulfidivorans JP7]|cazy|GH133	22.603	14	146	91	5	619	745	326	468	1.6	33.9
+GH116_query_1	BCG54174.1 hypothetical protein AI2BBH_12200 [Alistipes indistinctus]|cazy|CBM67	22.500	13	120	83	4	629	744	434	547	2.4	33.1
+GH116_query_1	AAA86377.1 GumI [Xanthomonas campestris]|cazy|GT94_characterized	55.172	3	29	8	1	413	441	325	348	3.0	32.7
+GH116_query_1	CAE6179499.1 unnamed protein product [Arabidopsis arenosa]|cazy|GH152	22.807	17	171	100	5	224	380	360	512	3.2	32.7
+GH116_query_1	QKW37240.1 hypothetical protein HUT06_27190 [Actinomadura sp. NAK00032]|cazy|GH78	23.276	12	116	88	1	624	738	373	488	3.7	32.7
+GH116_query_1	AOC96437.1 Beta-L-arabinobiosidase precursor [Flavobacterium anhuiense]|cazy|GH142	25.455	11	110	76	2	628	732	175	283	4.4	32.3
+GH116_query_1	AXC09864.1 Glycogen debranching enzyme [Acidisarcina polymorpha]|cazy|GH0	24.545	11	110	72	3	613	711	402	511	9.7	31.2
